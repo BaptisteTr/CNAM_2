@@ -1,11 +1,20 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <errno.h>
+#include <stdlib.h>
+#include <fcntl.h>
+#include <errno.h>
+#include <string.h>
 
 int main(int argc, char **argv)
 {
 
+	if(argc != 2){
+		printf("Mauvais nombre de paramètres.");
+		return 1;
+	}
 
+	int descripteurPipe[2];
 	pid_t pid = fork();
 
 	if(pid == 0){
@@ -13,18 +22,20 @@ int main(int argc, char **argv)
 		printf("PID (%d)\n",getpid());
 		close(1);
 
-		int desc = mkstemp("/tmp/proc-exercise");
-		int desc_new;
+		int out = open("/tmp/proc-exercise", O_RDWR, 0600);
 
-		desc_new = dup2(desc, 56);
+		if(errno == EEXIST){
 
-		execv("/home/CNAM_2A/PROJETS/SYS/TP2/TP2.c", argv);
-	} else {
-
-		if(argc != 2){
-			printf("Mauvais nombre de paramètres.");
-			return 1;
+			printf("%s",strerror(errno));
+			exit(0);
 		}
+
+		dup2(1, out);
+
+
+		printf("Numéro du descripteur de fichier : %d\n",out);
+
+	} else {
 
 		printf("PID : %d\n",getpid());
 		
