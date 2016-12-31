@@ -1,0 +1,75 @@
+CC=gcc
+CFLAGS=-Wall -c -g
+LDFLAGS=-I ./lib/
+
+SRC_DIR=./src
+INC_DIR=./lib
+BIN_DIR=./bin
+DOC_DIR=./doc
+GCOV_DIR=./gcov
+
+GCOVFLAGS=-O0 --coverage -lgcov -Wall -g
+
+LCOV_REPORT=report.info
+
+SRC=$(wildcard $(SRC_DIR)/*/*.c)
+OBJ=$(SRC:.c=.o)
+EXEC=my_sh
+
+GEXEC=$(EXEC).cov
+
+AR_NAME=archive_$(EXEC).tar.gz
+
+
+all: $(SRC) $(EXEC)
+    
+%.o:%.c
+	$(CC) $(CFLAGS) $< $(LDFLAGS) -o $@
+
+$(EXEC): $(OBJ) 
+	$(CC) -o $(BIN_DIR)/$@ -Wall $(LDFLAGS) $(OBJ)
+
+$(GEXEC):
+	$(CC) $(GCOVFLAGS) -o $(GCOV_DIR)/$@ -Wall $(LDFLAGS) $(SRC)
+
+doc:
+	doxygen $(DOC_DIR)/doxygen.conf
+
+gcov: $(GEXEC)
+	# generate some data for gcov by calling the generated binary with various options
+	$(GCOV_DIR)/$(GEXEC) -h
+	$(GCOV_DIR)/$(GEXEC) -i input -o output -v
+
+	find ./ -maxdepth 1 -name *.gcno -exec mv {} $(GCOV_DIR) \;
+	find ./ -maxdepth 1 -name *.gcda -exec mv {} $(GCOV_DIR) \;
+
+	gcov -o $(GCOV_DIR) $(GEXEC)
+	lcov -o $(GCOV_DIR)/$(LCOV_REPORT) -c -f -d $(GCOV_DIR)
+	genhtml -o $(GCOV_DIR)/report $(GCOV_DIR)/$(LCOV_REPORT)
+
+package: gcov doc all
+	rm -rf $(AR_NAME)
+	tar cvfz $(AR_NAME) ./*
+clean:	
+	rm -rf $(OBJ)
+
+mrproper: clean
+	rm -rf $(BIN_DIR)/*
+	rm -rf $(DOC_DIR)/latex/
+	rm -rf $(DOC_DIR)/html/
+	rm -rf $(GCOV_DIR)/*
+
+.PHONY: doc
+
+depend:
+	makedepend -- $(CFLAGS) -- $(SRC)
+
+# Don't place anything below this line, since
+# the make depend program will overwrite it
+# DO NOT DELETE THIS LINE -- make depend depends on it.
+./src/implementation/my_sh.o: /usr/include/stdio.h /usr/include/features.h
+./src/implementation/my_sh.o: /usr/include/stdc-predef.h /usr/include/libio.h
+./src/implementation/my_sh.o: /usr/include/_G_config.h /usr/include/wchar.h
+./src/implementation/my_sh.o: /usr/include/stdlib.h /usr/include/alloca.h
+./src/implementation/my_sh.o: /usr/include/string.h /usr/include/xlocale.h
+./src/implementation/my_sh.o: /usr/include/errno.h /usr/include/getopt.h
