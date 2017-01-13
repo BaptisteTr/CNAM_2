@@ -1,6 +1,6 @@
 
 
-void remove_substring_post_char(const char c, char ** string_to_sub){
+/*void remove_substring_post_char(const char c, char ** string_to_sub){
 
   char * res = *string_to_sub;
   int i = 0;
@@ -21,4 +21,4 @@ void remove_substring_post_char(const char c, char ** string_to_sub){
     res[i] = NULL;
   }
 
-}
+}*/

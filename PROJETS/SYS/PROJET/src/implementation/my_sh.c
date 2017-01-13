@@ -20,6 +20,9 @@
 #define STDOUT 1
 #define STDERR 2
 
+#define EXIT_SUCCESS 0
+#define EXIT_ERROR 1
+
 #define MAX_PATH_LENGTH 4096
 #define BUFFER_SIZE 4096
 
@@ -149,7 +152,7 @@ char* concat(const char *s1, const char *s2)
     return result;
 }
 
-void simple_exec(const char* parameters){
+int exec_command(const char* parameters){
   /*if(is_built_in(commande) == 0){
     printf("TODO");
   } else{*/
@@ -176,11 +179,13 @@ void simple_exec(const char* parameters){
     printf("Parameters_final[%d] = %s \n",i,parameters_final[i]);  
 
     //printf("execl(%s, %s, %s, NULL)\n\n", command_final,command_final, parameters);
-    execvp(command_final,parameters_final);
+    //execvp(command_final,parameters_final);
   //}
+
+    return EXIT_SUCCESS;
 }
 
-
+/*
 void exec_pipe(char* input_line){
 
     /*char * reste_split;
@@ -252,32 +257,122 @@ void exec_pipe(char* input_line){
 
     i=0;*/
 
-  printf("Ici éxecuter | \n");
+/*  printf("Ici éxecuter | \n");
 
   return EXIT_SUCCESS;
-}
+}*/
 
-void exec_redirect(char * input_line){
+char * substring_from_pos(char * input_line, int pos_start, int pos_end){
 
-  printf("exec_redirect\n");
+  char * res = malloc(sizeof(char) * ((pos_end-pos_start)+1));
+  int i = pos_start;
+  int char_counter = 0;
 
-  return EXIT_SUCCESS;
-}
-
-void exec_background(char * input_line){
-  printf("Exec background\n");
-
-  remove_substring_post_char('&', &input_line);
-  
-  int pid_fork = fork();
-
-  if(pid_fork == 0){ // Fils
-
-    exec_command(input_line); // ps
-
+  if(pos_start >= strlen(input_line)){
+    return EXIT_ERROR;
   }
 
-  return EXIT_SUCCESS;
+  while(input_line[i] != '\0' && i<pos_end){
+    res[char_counter] = input_line[i];
+    i++;
+    char_counter++;
+  }
+
+  res[char_counter] = '\0';
+
+  return res;
+
+}
+
+void substring_from_pointer_to_pointer(const char * input_line,const char * pointer_start,const char * pointer_end, char ** res){
+
+  char * substring = malloc(sizeof(char) * (pointer_end-pointer_start+1));
+
+
+  dprintf(STDOUT,"POINTER_START = %d \n\n",pointer_start);
+  char * i = pointer_start;
+  int counter = 0;
+
+  //dprintf(STDOUT,"substring building :\n");
+
+  while((counter+i)<pointer_end){
+
+    dprintf(STDOUT,"COUNTER = %d ;\n I = %d;\n\n",counter,i);
+
+    substring[counter] = (counter+i);
+    counter++;
+  }
+
+  substring[counter] = '\0';
+
+  /*dprintf(STDOUT,"Substring finale = %s\n", substring);
+
+  dprintf(STDOUT,"Substring pointer = %d\n", substring);*/
+
+  *res = substring;
+
+  /*dprintf(STDOUT,"res finale = %s\n", *res);
+
+  dprintf(STDOUT,"res pointer = %d\n", *res);*/
+
+}
+
+int is_substring(const char * substring, const char * main_string){
+
+  int i = 0;
+
+  //dprintf(STDOUT,"\n\nis_substring\n\n");
+
+  while(i<strlen(substring)){
+
+    //dprintf(STDOUT,"%c", main_string[i]);
+
+    if(substring[i] != main_string[i]){
+      return 1;
+    }
+    i++;
+  }
+
+  //dprintf(STDOUT,"\n");
+  return 0;
+    
+}
+
+char * get_substring_adress_in_string(const char * substring, const char * input_string){ // Récupérer l'adresse de la première occurence de substring dans input_string
+
+  char * res = NULL;
+
+  char * i = input_string;
+
+  while(is_substring(substring, i) == 1 && (i-input_string) < strlen(input_string)){
+    i++;
+  }
+
+  if((i-input_string) < strlen(input_string)){
+    res = i-1;
+  }
+
+  dprintf(STDOUT,"RES == %d\n",res);
+
+  return res;
+
+}
+
+void remove_substring_post_string(const char* c, char ** string_to_sub){
+
+  char * res = *string_to_sub;
+  char * pointer = strstr(res, c) - res;
+  int i = 0;
+
+  pointer = '\0';
+  pointer++;
+
+  while(&pointer != '\0'){
+    pointer = NULL;
+    pointer++;
+  }
+  pointer = NULL;
+
 }
 
 void remove_substring_post_char(const char c, char ** string_to_sub){
@@ -303,71 +398,179 @@ void remove_substring_post_char(const char c, char ** string_to_sub){
 
 }
 
-void exec_sequential(char * input_line){
+int split_by_char(char * input_line, char c, char *** substring_tab){
+
+  char ** res = NULL;
+  char * substring;
+  int i = 0,start_split = 0, end_split = 0, nb_split = 0;
+
+  while(input_line[i] != '\0'){
+    if(input_line[i] == c){
+      end_split = i;
+
+      substring = substring_from_pos(input_line, start_split, end_split);
+
+      res = realloc (res, sizeof (char*) * (nb_split+1));
+
+      res[nb_split] = substring;
+      nb_split++;
+      start_split = i + 1;
+    }
+    i++;
+  }
+
+  res = realloc (res, sizeof (char*) * (nb_split+1));
+
+  substring = substring_from_pos(input_line, start_split, strlen(input_line)-1);
+
+  res[nb_split] = substring;
+
+  *substring_tab = res;
+
+  return nb_split;
+}
+
+void exec_semicolon(char * input_line){
 
   char ** result_semicolon_split;
   int nb_split;
   int i;
 
-  nb_split = split_by_char(input_line, * result_semicolon_split); // ( ps; ls -l; cat test) => [0]["ps"] [1]["ls -l"] [2]["cat test"]
+  nb_split = split_by_char(input_line, ';', &result_semicolon_split); // ( ps; ls -l; cat test) => [0]["ps"] [1]["ls -l"] [2]["cat test"]
 
-  for(i = 0; i<nb_split; i++){
+  dprintf(STDOUT,"EXEC semicolon ! nb_split = %d\n",nb_split);
 
-    //Lancer l'éxécution de chaque bloc
+  for(i = 0; i<=nb_split; i++){
+
+    dprintf(STDOUT,"main_exec(%s)\n",result_semicolon_split[i]);
+    main_exec(result_semicolon_split[i]);
+  }
+
+
+  return EXIT_SUCCESS;
+}
+
+
+int exec_background(char * input_line){
+  dprintf(STDOUT,"Exec background!\n");
+
+  remove_substring_post_char('&', &input_line);
+  
+  int pid_fork = fork();
+
+  if(pid_fork == 0){ // Fils
+
+    main_exec(input_line); // ps
+    exit(0);
+  }
+  return EXIT_SUCCESS;
+}
+
+void exec_logical_operator(char * input_line){
+
+  // Récupérer la première occurence de && ou || et lancer l'exec de la chaine de caractères avant
+  char * pointer_and;
+  char * pointer_or;
+  char * second_part, first_part;
+
+  pointer_and = get_substring_adress_in_string("&&", input_line);
+  pointer_or = get_substring_adress_in_string("||", input_line);
+
+  if(pointer_and == NULL && pointer_or != NULL){
+
+    substring_from_pointer_to_pointer(input_line, input_line, pointer_or, &first_part);
+    second_part = pointer_or+2;
+
+    dprintf(STDOUT,"EXEC : %s || %s\n\n",first_part,second_part);
+
+    if(main_exec(first_part) == 1){
+      main_exec(second_part);
+    }
+
+  } else if(pointer_and != NULL && pointer_or == NULL){
+
+    dprintf(STDOUT,"pointer pointer_and : %d\n", pointer_and);
+    substring_from_pointer_to_pointer(input_line, input_line, pointer_and, &first_part); // Modifie pointer_and
+    second_part = pointer_and+2;
+
+    dprintf(STDOUT,"pointer pointer_and : %d\n", pointer_and);
+    /*dprintf(STDOUT,"pointer input_line : %d\n", input_line);
+
+    dprintf(STDOUT,"second_part pointer : %d\n",second_part);
+    dprintf(STDOUT,"Ŝecond_part : %s",second_part);
+
+    dprintf(STDOUT,"First part pointer : %d\n",first_part);
+    dprintf(STDOUT,"First part : %s",first_part);*/
+
+    //dprintf(STDOUT,"First part : %s && %s",first_part,second_part);
+
+    if(main_exec(first_part) == 0){
+      main_exec(second_part);
+    }
+
+  } else if(pointer_and < pointer_or){
+
+    substring_from_pointer_to_pointer(input_line, input_line, pointer_and, &first_part);
+    second_part = pointer_and+2;
+
+    if(main_exec(first_part) == 0){
+      main_exec(second_part);
+    }
+
+  } else if(pointer_and > pointer_or){
+
+    substring_from_pointer_to_pointer(input_line, input_line, pointer_or, &first_part);
+    second_part = pointer_or+2;
+
+    if(main_exec(first_part) == 1){
+      main_exec(second_part);
+    }
+
   }
 
   return EXIT_SUCCESS;
 }
 
-void exec_command(char * input_line)
+void exec_redirection(char * input_line){
+
+
+  return EXIT_SUCCESS;
+}
+
+void exec_piping(char * input_line){
+
+  return EXIT_SUCCESS;
+}
+
+int main_exec(char * input_line)
 {
 
-  //char** splitted_input;
-  //char* intact_input = malloc(strlen(input_line)+1);
-  //char* split_char = " ";
-  int nb_arg,i = 0;
-
-  //strcpy(intact_input,input_line);
-
-  /*printf("res strstr(input_line)/& = %d\n", strstr(input_line, " &"));
-  printf("res strstr(input_line)/> = %d\n", strstr(" > ", input_line));
-  printf("res strstr(input_line)/| = %d\n", strstr(" | ", input_line));*/
-
-  //1 -> Découper l'exec par le caractère ';'
-  //2 -> Placer les executions en tache de fond avec le car '&'
-  //3 -> Gérer les blocks de rediréctions (< << > >>)
-  //4 -> gérer les opérateurs logiques (&& ||)
-  //5 -> Gérer le piping
-
+  if( strstr(input_line,";")){
+    exec_semicolon(input_line); // Lance autant d'exec de que bloc
+  } 
   
-    if(strstr(input_line, ";") != 0){
-      exec_sequential(input_line);
-    }/* else {
-
-      if(strstr(input_line, " &") != 0){
-        exec_background(input_line);      
-      } else {
-
-        if(strstr(input_line, "< << > >>") != 0){
-          exec_redirect(input_line);
-        } else {
-          
-          if(strstr(input_line, "&& ||") != 0){
-            exec_logic_operation(input_line);
-          } else {
-            
-            if(strstr(input_line, "|") != 0){
-              exec_piping(input_line):
-            } else {
-
-              exec_line(input_line);
-            }
-          }
-        }
-      }
-    }*/
-
+  else if( input_line[strlen(input_line)-1] == '&'){
+    exec_background(input_line);// Lance l'exec dans un processus fils sans attente
+  }
   
+  else if( strstr(input_line, "&&") || strstr(input_line, "||")){
+    exec_logical_operator(input_line); // Lance des exec pour chaque bloc logique et test leurs validités
+  }
+  
+  else if( strstr(" >",input_line) || strstr(" >>",input_line) || strstr("< ",input_line) || strstr("<< ",input_line)){
+    exec_redirection(input_line); // Lance une chaine d'exec avec des redirections d'output/input
+  }
+  
+  else if( strstr(" | ",input_line)){
+    exec_piping(input_line);  // Lance des execs chainés dans des pipes
+  }
+  
+  else{
+    exec_command(input_line); // Lance une éxécution simple de la commande passée (built-in ou bash)
+  }
+  
+  return EXIT_SUCCESS;
+
 }
 
 char * read_and_histo(){
@@ -408,9 +611,9 @@ int main(int argc, char** argv) //Interpréter directement argv pour les appels 
     
     input_line = read_and_histo();
 
-    //exec_command(input_line);
+    main_exec(input_line);
 
-  } while(true); //strcmp(input_line,"EXIT\n") != 0); // Remplacer par un cas dans le switch
+  } while(1); //strcmp(input_line,"EXIT\n") != 0); // Remplacer par un cas dans le switch
 
   return EXIT_SUCCESS;
 }
