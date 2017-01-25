@@ -11,6 +11,8 @@
 #include<stdlib.h>
 #include<string.h>
 #include<errno.h>
+#include<unistd.h>
+#include<fcntl.h>
 
 #include<time.h>
 #include<getopt.h>
@@ -289,7 +291,7 @@ void substring_from_pointer_to_pointer(const char * input_line,const char * poin
   char * substring = malloc(sizeof(char) * (pointer_end-pointer_start+1));
 
 
-  dprintf(STDOUT,"POINTER_START = %d \n\n",pointer_start);
+  //dprintf(STDOUT,"POINTER_START = %d \n\n",pointer_start);
   char * i = pointer_start;
   int counter = 0;
 
@@ -297,7 +299,7 @@ void substring_from_pointer_to_pointer(const char * input_line,const char * poin
 
   while((counter+i)<pointer_end){
 
-    dprintf(STDOUT,"COUNTER = %d ;\n I = %d;\n\n",counter,i);
+    //dprintf(STDOUT,"COUNTER = %d ;\n I = %d;\n\n",counter,i);
 
     substring[counter] = (counter+i);
     counter++;
@@ -305,15 +307,17 @@ void substring_from_pointer_to_pointer(const char * input_line,const char * poin
 
   substring[counter] = '\0';
 
-  /*dprintf(STDOUT,"Substring finale = %s\n", substring);
+  dprintf(STDOUT,"pointer_and = %d\n", pointer_end);
 
-  dprintf(STDOUT,"Substring pointer = %d\n", substring);*/
+  dprintf(STDOUT,"Substring finale = %s\n", substring);
+
+  dprintf(STDOUT,"Substring pointer = %d\n", substring);
 
   *res = substring;
 
-  /*dprintf(STDOUT,"res finale = %s\n", *res);
+  dprintf(STDOUT,"res finale = %s\n", *res);
 
-  dprintf(STDOUT,"res pointer = %d\n", *res);*/
+  dprintf(STDOUT,"res pointer = %d\n", *res);
 
 }
 
@@ -430,6 +434,110 @@ int split_by_char(char * input_line, char c, char *** substring_tab){
   return nb_split;
 }
 
+int split_by_char_first_occurence(char * input_line, char character, char *** substring_tab) {
+
+  char ** res = NULL;
+  char * substring;
+  int i = 0, start_split = 0, end_split = 0, nb_split = 0;
+
+  res = malloc(sizeof (char *) * 2);
+
+  dprintf(STDOUT,"\n\n\n");
+
+  while(i<strlen(input_line)){
+
+    dprintf(STDOUT,"%c",input_line[i]);
+   
+    if(input_line[i] == character){   
+      end_split = i;
+
+      res[0] =  substring_from_pos(input_line, start_split, end_split);
+
+      start_split = i + 1;
+
+      end_split = strlen(input_line);
+
+      res[1] = substring_from_pos(input_line, start_split, end_split);
+
+      i= strlen(input_line);
+    }
+
+    i++;
+  }
+
+
+  dprintf(STDOUT,"RES[0] == %s\n RES[1] == %s\n",res[0],res[1]);
+
+
+  *substring_tab = res;
+
+  return nb_split;
+
+}
+
+int split_by_string_first_occurence(char * input_line, char * string, char *** substring_tab){
+
+  char ** res = NULL;
+  char * substring;
+  int i = 0, start_split = 0, end_split = 0, nb_split = 0;
+
+  res = malloc(sizeof (char *) * 2);
+
+  while(i<strlen(input_line)){
+   
+    if(input_line[i] == string[0] && input_line[i+1] == string[1]){   
+      end_split = i;
+
+      res[0] =  substring_from_pos(input_line, start_split, end_split);
+
+      start_split = i + strlen(string);
+
+      end_split = strlen(input_line);
+
+      res[1] = substring_from_pos(input_line, start_split, end_split);
+
+      i= strlen(input_line);
+    }
+
+    i++;
+  }
+
+  dprintf(STDOUT,"RES[0] == %s\n RES[1] == %s\n",res[0],res[1]);
+
+
+  *substring_tab = res;
+
+  return nb_split;
+}
+
+int is_valid_path(char * input_line){ // 0 == true
+
+  int res = 0, i = 0, has_slash = 1;
+
+  while(input_line[i] == ' '){
+    i++;
+  }
+
+  while(i<strlen(input_line)){
+
+
+    if(input_line[i] == '/'){
+      has_slash = 0;
+    } else if(input_line[i] == ' '){
+      res = 1;
+    }
+
+    i++;
+  }
+
+  if(has_slash == 0) {
+    return res;
+  } else {
+    return 1;
+  }
+
+}
+
 void exec_semicolon(char * input_line){
 
   char ** result_semicolon_split;
@@ -471,59 +579,41 @@ void exec_logical_operator(char * input_line){
   // Récupérer la première occurence de && ou || et lancer l'exec de la chaine de caractères avant
   char * pointer_and;
   char * pointer_or;
-  char * second_part, first_part;
+  char ** res;
 
-  pointer_and = get_substring_adress_in_string("&&", input_line);
+  pointer_and = get_substring_adress_in_string("&&", input_line); // Renommer en is_string_present
   pointer_or = get_substring_adress_in_string("||", input_line);
 
   if(pointer_and == NULL && pointer_or != NULL){
 
-    substring_from_pointer_to_pointer(input_line, input_line, pointer_or, &first_part);
-    second_part = pointer_or+2;
+    split_by_string_first_occurence(input_line,"||", &res);
 
-    dprintf(STDOUT,"EXEC : %s || %s\n\n",first_part,second_part);
-
-    if(main_exec(first_part) == 1){
-      main_exec(second_part);
+    if(main_exec(res[0]) == 1){
+      main_exec(res[1]);
     }
 
   } else if(pointer_and != NULL && pointer_or == NULL){
 
-    dprintf(STDOUT,"pointer pointer_and : %d\n", pointer_and);
-    substring_from_pointer_to_pointer(input_line, input_line, pointer_and, &first_part); // Modifie pointer_and
-    second_part = pointer_and+2;
+    split_by_string_first_occurence(input_line,"&&", &res);
 
-    dprintf(STDOUT,"pointer pointer_and : %d\n", pointer_and);
-    /*dprintf(STDOUT,"pointer input_line : %d\n", input_line);
-
-    dprintf(STDOUT,"second_part pointer : %d\n",second_part);
-    dprintf(STDOUT,"Ŝecond_part : %s",second_part);
-
-    dprintf(STDOUT,"First part pointer : %d\n",first_part);
-    dprintf(STDOUT,"First part : %s",first_part);*/
-
-    //dprintf(STDOUT,"First part : %s && %s",first_part,second_part);
-
-    if(main_exec(first_part) == 0){
-      main_exec(second_part);
+    if(main_exec(res[0]) == 0){
+      main_exec(res[1]);
     }
 
   } else if(pointer_and < pointer_or){
 
-    substring_from_pointer_to_pointer(input_line, input_line, pointer_and, &first_part);
-    second_part = pointer_and+2;
+    split_by_string_first_occurence(input_line,"&&", &res);
 
-    if(main_exec(first_part) == 0){
-      main_exec(second_part);
+    if(main_exec(res[0]) == 0){
+      main_exec(res[1]);
     }
 
   } else if(pointer_and > pointer_or){
 
-    substring_from_pointer_to_pointer(input_line, input_line, pointer_or, &first_part);
-    second_part = pointer_or+2;
+    split_by_string_first_occurence(input_line,"||", &res);
 
-    if(main_exec(first_part) == 1){
-      main_exec(second_part);
+    if(main_exec(res[0]) == 1){
+      main_exec(res[1]);
     }
 
   }
@@ -533,6 +623,98 @@ void exec_logical_operator(char * input_line){
 
 void exec_redirection(char * input_line){
 
+  char * pointer_left_can, pointer_right_can, pointer_double_left_can, pointer_double_right_can;
+  char ** res;
+  int out;
+
+  pointer_left_can = get_substring_adress_in_string("<", input_line); // Renommer en is_string_present
+  pointer_right_can = get_substring_adress_in_string(">", input_line);
+
+  if( pointer_left_can != NULL 
+    && (pointer_right_can == NULL || pointer_left_can < pointer_right_can ))  
+  {
+
+    if(*(pointer_left_can+2) == '<'){
+      split_by_string_first_occurence(input_line,"<<", &res);      
+
+    } else {
+      split_by_char_first_occurence(input_line,'<', &res);
+    }
+
+    dprintf(STDOUT,"first_part == %s < Second_part == %s\n\n",res[0],res[1]);
+
+    if( is_valid_path(res[0]) ) { // Améliorer (tester si il s'agit d'une commande ou d'un fichier)
+        
+      //access( res[0], F_OK ) != -1
+
+      dprintf(STDOUT,"redirect in file\n\n");
+
+      out = open(res[0], O_RDWR|O_CREAT|O_APPEND, 06000);
+      if (-1 == out) { perror("Impossible de créer le fichier ou de l'ouvrir"); return 255;}
+
+      if (-1 == dup2(out, fileno(stdout))) { perror("cannot redirect stdout"); return 255; }
+
+
+      main_exec(res[1]);
+
+      fflush(stdout); close(out);
+
+
+    } else if (res[0][0] == '2') {
+
+
+      dprintf(STDOUT,"redirect in 2\n\n");
+      dup2(2, 1);
+
+      main_exec(res[1]);
+
+      dup2(1, 1);
+    } else { // Rediriger dans un pipe (fork un fils qu'on attend et qui prend le pere en input? )
+
+    }
+
+
+    //Tester la partie de gauche (fichier, output ou commande)
+
+
+  } else {
+
+    dprintf(STDOUT,"first_part == %s < Second_part == %s\n\n",res[0],res[1]);
+
+
+    if(*(pointer_left_can+2) == '>'){
+      split_by_string_first_occurence(input_line,">>", &res);      
+
+    } else {
+      split_by_char(input_line,'>', &res);
+    }
+
+    if( is_valid_path(res[1]) ) {
+
+      dprintf(STDOUT,"redirect in file\n\n");
+
+      out = open(res[0], O_RDWR|O_CREAT|O_APPEND, 06000);
+      if (-1 == out) { perror("Impossible de créer le fichier ou de l'ouvrir"); return 255;}
+
+      if (-1 == dup2(out, fileno(stdout))) { perror("cannot redirect stdout"); return 255; }
+
+      main_exec(res[1]);
+
+      fflush(stdout); close(out);
+
+
+        // file exists
+    } else if (res[1][0] == '2') {
+      dup2(2, 1);
+
+      main_exec(res[0]);
+
+      dup2(1, 1);
+    } else {
+
+    }
+
+  }
 
   return EXIT_SUCCESS;
 }
@@ -557,7 +739,7 @@ int main_exec(char * input_line)
     exec_logical_operator(input_line); // Lance des exec pour chaque bloc logique et test leurs validités
   }
   
-  else if( strstr(" >",input_line) || strstr(" >>",input_line) || strstr("< ",input_line) || strstr("<< ",input_line)){
+  else if( strstr(input_line," >") || strstr(input_line," >>") || strstr(input_line, "< ") || strstr(input_line, "<< ")){
     exec_redirection(input_line); // Lance une chaine d'exec avec des redirections d'output/input
   }
   
