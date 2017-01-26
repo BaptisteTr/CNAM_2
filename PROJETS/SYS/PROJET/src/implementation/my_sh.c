@@ -154,39 +154,6 @@ char* concat(const char *s1, const char *s2)
     return result;
 }
 
-int exec_command(const char* parameters){
-  /*if(is_built_in(commande) == 0){
-    printf("TODO");
-  } else{*/
-    char* command_path = "/bin/";
-    char* command_final;
-    char ** parameters_final;
-    int i = 0, nb_arg;
-
-    nb_arg = split_line(parameters, " ", &parameters_final); 
-
-    //command_final = concat(command_path, parameters_final[0]);
-
-    command_final = parameters_final[0];
-
-    //parameters_final[0] = command_final;
-    while(i<nb_arg){
-
-      //parameters_final[i] = parameters_final[i+1];
-      printf("Parameters_final[%d] = %s \n",i,parameters_final[i]);
-      i++;
-    }
-
-    parameters_final[nb_arg] = NULL;
-    printf("Parameters_final[%d] = %s \n",i,parameters_final[i]);  
-
-    //printf("execl(%s, %s, %s, NULL)\n\n", command_final,command_final, parameters);
-    //execvp(command_final,parameters_final);
-  //}
-
-    return EXIT_SUCCESS;
-}
-
 /*
 void exec_pipe(char* input_line){
 
@@ -356,8 +323,6 @@ char * get_substring_adress_in_string(const char * substring, const char * input
     res = i-1;
   }
 
-  dprintf(STDOUT,"RES == %d\n",res);
-
   return res;
 
 }
@@ -465,10 +430,6 @@ int split_by_char_first_occurence(char * input_line, char character, char *** su
     i++;
   }
 
-
-  dprintf(STDOUT,"RES[0] == %s\n RES[1] == %s\n",res[0],res[1]);
-
-
   *substring_tab = res;
 
   return nb_split;
@@ -502,12 +463,29 @@ int split_by_string_first_occurence(char * input_line, char * string, char *** s
     i++;
   }
 
-  dprintf(STDOUT,"RES[0] == %s\n RES[1] == %s\n",res[0],res[1]);
-
-
   *substring_tab = res;
 
   return nb_split;
+}
+
+void clean_spaces(char ** input_line) {
+
+  int i;
+  char * input = *input_line;
+
+  printf("clean_spaces input : %s\n\n", input); // Le dernier character est coupé (probablement le clean initial)
+
+  for(i=strlen(input)-1; input[i] == ' ' || input[i] == '\0' || input[i] == '\n'; i--){
+    input[i] = NULL;
+  }
+  input[i+1] = '\0';
+
+  while(input[0] == ' '){
+    input[0] = NULL;
+    input++;
+  }
+
+  *input_line = input;
 }
 
 int is_valid_path(char * input_line){ // 0 == true
@@ -538,7 +516,66 @@ int is_valid_path(char * input_line){ // 0 == true
 
 }
 
-void exec_semicolon(char * input_line){
+
+int init_pipe (int in, int out, char * input_line)
+{
+  pid_t pid;
+
+  if ((pid = fork ()) == 0)
+    {
+      if (in != 0)
+        {
+          dup2 (in, 0);
+          close (in);
+        }
+
+      if (out != 1)
+        {
+          dup2 (out, 1);
+          close (out);
+        }
+
+      return main_exec(input_line);
+    }
+
+  return pid;
+}
+
+
+int fork_pipes (int n, char ** input)
+{
+  int i;
+  pid_t pid;
+  int in, fd [2];
+
+  /* The first process should get its input from the original file descriptor 0.  */
+  in = 0;
+
+  /* Note the loop bound, we spawn here all, but the last stage of the pipeline.  */
+  for (i = 0; i < n - 1; ++i)
+    {
+      pipe (fd);
+
+      /* f [1] is the write end of the pipe, we carry `in` from the prev iteration.  */
+      init_pipe (in, fd [1], input + i);
+
+      /* No need for the write end of the pipe, the child will write here.  */
+      close (fd [1]);
+
+      /* Keep the read end of the pipe, the next child will read from there.  */
+      in = fd [0];
+    }
+
+  /* Last stage of the pipeline - set stdin be the read end of the previous pipe
+     and output to the original file descriptor 1. */  
+  if (in != 0)
+    dup2 (in, 0);
+
+  /* Execute the last stage with the current process. */
+  return main_exec(input [i]);
+}
+
+int exec_semicolon(char * input_line){
 
   char ** result_semicolon_split;
   int nb_split;
@@ -574,9 +611,8 @@ int exec_background(char * input_line){
   return EXIT_SUCCESS;
 }
 
-void exec_logical_operator(char * input_line){
+int exec_logical_operator(char * input_line){
 
-  // Récupérer la première occurence de && ou || et lancer l'exec de la chaine de caractères avant
   char * pointer_and;
   char * pointer_or;
   char ** res;
@@ -625,7 +661,7 @@ void exec_redirection(char * input_line){
 
   char * pointer_left_can, pointer_right_can, pointer_double_left_can, pointer_double_right_can;
   char ** res;
-  int out;
+  int out, is_double = 0;
 
   pointer_left_can = get_substring_adress_in_string("<", input_line); // Renommer en is_string_present
   pointer_right_can = get_substring_adress_in_string(">", input_line);
@@ -636,21 +672,26 @@ void exec_redirection(char * input_line){
 
     if(*(pointer_left_can+2) == '<'){
       split_by_string_first_occurence(input_line,"<<", &res);      
-
+      is_double = 1;
     } else {
       split_by_char_first_occurence(input_line,'<', &res);
     }
 
-    dprintf(STDOUT,"first_part == %s < Second_part == %s\n\n",res[0],res[1]);
+    printf("RES[0] == %s\n\n", res[0]);
 
     if( is_valid_path(res[0]) ) { // Améliorer (tester si il s'agit d'une commande ou d'un fichier)
-        
-      //access( res[0], F_OK ) != -1
 
-      dprintf(STDOUT,"redirect in file\n\n");
 
-      out = open(res[0], O_RDWR|O_CREAT|O_APPEND, 06000);
+      clean_spaces(res[0]);
+
+      if(is_double == 1) {
+        out = open(res[0], O_RDWR|O_CREAT|O_APPEND, 06755);
+      } else {
+        out = open(res[0], O_RDWR|O_CREAT|O_TRUNC, 06755);
+      }
       if (-1 == out) { perror("Impossible de créer le fichier ou de l'ouvrir"); return 255;}
+
+      int save_out = dup(fileno(stdout));
 
       if (-1 == dup2(out, fileno(stdout))) { perror("cannot redirect stdout"); return 255; }
 
@@ -658,9 +699,11 @@ void exec_redirection(char * input_line){
       main_exec(res[1]);
 
       fflush(stdout); close(out);
+      dup2(save_out, fileno(stdout));
+      close(save_out);
 
 
-    } else if (res[0][0] == '2') {
+    } else if (res[0][0] == '2') { // Tester entier
 
 
       dprintf(STDOUT,"redirect in 2\n\n");
@@ -679,28 +722,37 @@ void exec_redirection(char * input_line){
 
   } else {
 
-    dprintf(STDOUT,"first_part == %s < Second_part == %s\n\n",res[0],res[1]);
-
-
-    if(*(pointer_left_can+2) == '>'){
+    if(*(get_substring_adress_in_string(">", input_line)+2) == '>'){
       split_by_string_first_occurence(input_line,">>", &res);      
-
+      is_double = 1;
     } else {
       split_by_char(input_line,'>', &res);
     }
 
     if( is_valid_path(res[1]) ) {
 
-      dprintf(STDOUT,"redirect in file\n\n");
 
-      out = open(res[0], O_RDWR|O_CREAT|O_APPEND, 06000);
+      clean_spaces(&res[1]);
+
+
+      if(is_double == 1) {
+        out = open(res[1], O_RDWR|O_CREAT|O_APPEND, 06755);
+      } else {
+        out = open(res[1], O_RDWR|O_CREAT|O_TRUNC, 06755);
+      }
+      
       if (-1 == out) { perror("Impossible de créer le fichier ou de l'ouvrir"); return 255;}
+
+      int save_out = dup(fileno(stdout));
 
       if (-1 == dup2(out, fileno(stdout))) { perror("cannot redirect stdout"); return 255; }
 
-      main_exec(res[1]);
+
+      main_exec(res[0]);
 
       fflush(stdout); close(out);
+      dup2(save_out, fileno(stdout));
+      close(save_out);
 
 
         // file exists
@@ -721,7 +773,58 @@ void exec_redirection(char * input_line){
 
 void exec_piping(char * input_line){
 
+
+  char ** result_pipe_split;
+  int nb_split;
+
+  nb_split = split_by_char(input_line, '|', &result_pipe_split); // ( ps | grep sh | grep ??) => [0]["ps"] [1]["grep sh"] [2]["grep ??"]
+
+  fork_pipes(nb_split, result_pipe_split);
+
   return EXIT_SUCCESS;
+}
+
+int exec_command(const char* parameters){
+  /*if(is_built_in(commande) == 0){
+    printf("TODO");
+  } else{*/
+  char* command_path = "/bin/";
+  char* command_final;
+  char ** parameters_final;
+  int i = 0, nb_arg, res;
+
+  nb_arg = split_line(parameters, " ", &parameters_final); 
+
+  command_final = parameters_final[0];
+
+  parameters_final[0] = command_final;
+  /*while(i<nb_arg){
+
+    printf("parameter : %s\n",parameters_final[i+1]);
+
+    parameters_final[i] = parameters_final[i+1];
+    i++;
+  }*/
+
+  //parameters_final[nb_arg] = NULL;
+
+
+  pid_t pid = fork();
+
+  if (pid == 0) { // Enfant
+      
+    res = execvp (parameters_final[0], parameters_final);
+
+    if(res == -1){
+      printf("%s: commande introuvable\n", command_final);
+    }
+  }
+  else{ // Parent
+    int status = -1;
+    wait(&status); 
+  }
+
+    return res;
 }
 
 int main_exec(char * input_line)
@@ -743,7 +846,7 @@ int main_exec(char * input_line)
     exec_redirection(input_line); // Lance une chaine d'exec avec des redirections d'output/input
   }
   
-  else if( strstr(" | ",input_line)){
+  else if( strstr(input_line, " | ")){
     exec_piping(input_line);  // Lance des execs chainés dans des pipes
   }
   
@@ -759,6 +862,7 @@ char * read_and_histo(){
 
   char * res = malloc(sizeof(char) * 200);
   time_t timer;
+  int res_length;
   char buffer[26];
   struct tm* tm_info;
 
@@ -773,6 +877,11 @@ char * read_and_histo(){
   // Historisation
   adx_store_data(HISTO_PATH, buffer);
   adx_store_data(HISTO_PATH, res);
+
+  res_length = strlen(res);
+  if(res[res_length-1] =='\n'){
+    res[res_length-1] = '\0';
+  }
 
   return res;
 }
