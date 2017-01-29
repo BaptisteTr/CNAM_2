@@ -155,3 +155,2405 @@
 26/01/2017 15:47:59 : ls -als > grep src
 26/01/2017 15:50:52 : ls -als > grep src
 26/01/2017 15:52:35 : ls -als > grep src 
+28/01/2017 20:26:48 : ls
+28/01/2017 20:26:50 : ls -als
+28/01/2017 20:26:59 : ls -als ; pwd
+28/01/2017 20:27:10 : ls -als; pwd
+28/01/2017 20:27:52 : ls -als; pws
+28/01/2017 20:27:57 : ls -als; pwd
+28/01/2017 20:30:42 : ls -als > grep l
+28/01/2017 20:32:37 : ls -als > grep
+28/01/2017 20:32:46 : ls -als > grep
+28/01/2017 20:33:30 : ls -als > grep
+28/01/2017 20:33:47 : ls -als >            grep
+28/01/2017 20:39:08 : ls -als >    grep     
+28/01/2017 20:40:14 : ls -als > grep
+28/01/2017 20:42:24 : ls -als > grep
+28/01/2017 20:50:58 : ls -als > grep l
+28/01/2017 20:51:37 : ls -als > grep l
+28/01/2017 20:52:24 : ls -als > grep l
+28/01/2017 20:57:03 : ls -als > grep l
+28/01/2017 21:12:53 : ls -als > grep l
+28/01/2017 21:17:26 : ls -als > grep l
+28/01/2017 21:22:16 : ls -als > grep l
+28/01/2017 21:25:01 : ls -als > grep l
+28/01/2017 21:26:29 : ls -als > grep
+28/01/2017 21:26:30 : ��: commande introuvable
+28/01/2017 21:26:38 : ls -als > grep l
+28/01/2017 21:26:57 : ls -als | grep l | pwd
+28/01/2017 21:27:17 : ls -als > grep l
+28/01/2017 21:42:31 : ls -als > grep l
+28/01/2017 21:43:16 : ls -als > grep
+28/01/2017 21:43:16 : ��: commande introuvable
+28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:17 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:18 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:43:19 : 28/01/2017 21:45:16 : ls -als > grep l
+28/01/2017 21:45:16 : 28/01/2017 21:45:16 : 28/01/2017 21:45:16 : 28/01/2017 21:45:16 : 28/01/2017 21:45:16 : 28/01/2017 21:45:16 : 28/01/2017 21:45:16 : 28/01/2017 21:45:16 : 28/01/2017 21:45:16 : 28/01/2017 21:45:16 : 28/01/2017 21:45:16 : 28/01/2017 21:45:16 : 28/01/2017 21:45:16 : 28/01/2017 21:45:16 : 28/01/2017 21:45:16 : 28/01/2017 21:45:16 : 28/01/2017 21:45:16 : 28/01/2017 21:45:16 : 28/01/2017 21:45:17 : 28/01/2017 21:45:17 : 28/01/2017 21:45:17 : 28/01/2017 21:45:17 : 28/01/2017 21:45:17 : 28/01/2017 21:45:17 : 28/01/2017 21:45:17 : 28/01/2017 21:45:17 : 28/01/2017 21:45:17 : 28/01/2017 21:45:17 : 28/01/2017 21:45:17 : 28/01/2017 21:45:17 : 28/01/2017 21:45:17 : 28/01/2017 21:45:17 : 28/01/2017 21:45:17 : 28/01/2017 21:45:17 : 28/01/2017 21:45:17 : 28/01/2017 21:45:17 : 28/01/2017 21:45:17 : 28/01/2017 21:45:17 : 28/01/2017 21:45:17 : 28/01/2017 21:45:17 : 28/01/2017 21:45:17 : 28/01/2017 21:45:17 : 28/01/2017 21:45:17 : 28/01/2017 21:45:17 : 28/01/2017 21:45:17 : 28/01/2017 21:45:17 : 28/01/2017 21:45:18 : 28/01/2017 21:45:18 : 28/01/2017 21:45:18 : 28/01/2017 21:45:18 : 28/01/2017 21:45:18 : 28/01/2017 21:45:18 : 28/01/2017 21:46:47 : ls -als > grep
+28/01/2017 21:46:47 : ��: commande introuvable
+28/01/2017 21:46:55 : ls -als > grep l
+28/01/2017 22:00:39 : ls -als > grep l
+28/01/2017 22:06:39 : ls -als > grep l
+28/01/2017 22:06:53 : ls -als | grep l
+28/01/2017 22:07:29 : ls -als | grep l
+28/01/2017 22:08:45 : ls -als | grep l
+28/01/2017 22:09:41 : ls -als > grep l
+28/01/2017 22:09:46 : ls -als
+28/01/2017 22:09:55 : ls -als  
+28/01/2017 22:09:57 : pwd
+28/01/2017 22:10:06 : ls -als | grep l
+28/01/2017 22:15:38 : ls -als > ./test
+28/01/2017 22:16:09 : ls -als >> ./test
+28/01/2017 22:16:21 : pwd >> ./test
+28/01/2017 22:16:28 : pwd > ./test
+28/01/2017 22:16:43 : ls -als | grep l
+28/01/2017 22:21:03 : ls -als | grep l
+28/01/2017 22:22:07 : ls -als | grep l
+28/01/2017 22:22:41 : ls -als | grep l
+29/01/2017 00:14:22 : ls -als | grep l
+29/01/2017 00:19:58 : ls -als | grep l
+29/01/2017 00:26:53 : ls -als | grep l
+29/01/2017 00:27:04 : ls -als | grep l | make
+29/01/2017 00:27:16 : 
+29/01/2017 00:27:17 : 
+29/01/2017 00:27:17 : 
+29/01/2017 00:27:17 : 
+29/01/2017 00:27:17 : 
+29/01/2017 00:27:18 : 
+29/01/2017 00:27:18 : 
+29/01/2017 00:27:41 : ls -als | grep make
+29/01/2017 00:27:53 : ls -als | Make
+29/01/2017 00:28:02 : ls -als | Make
+29/01/2017 00:28:05 : toto
+29/01/2017 00:28:07 : toto
+29/01/2017 00:28:08 : toto
+29/01/2017 00:28:11 : ls -als
+29/01/2017 00:28:14 : ls -als
+29/01/2017 00:28:38 : ls -als | MAke
+29/01/2017 00:28:38 : total 48
+29/01/2017 00:28:38 : 4 drwxr-xr-x 8 baptiste baptiste 4096 janv. 28 22:15 .
+29/01/2017 00:28:38 : 4 drwxr-xr-x 6 baptiste baptiste 4096 déc.  27 16:25 ..
+29/01/2017 00:28:38 : 4 drwxr-xr-x 2 baptiste baptiste 4096 janv. 29 00:28 bin
+29/01/2017 00:28:38 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:46 doc
+29/01/2017 00:28:38 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 00:28:38 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 00:28:38 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 00:28:38 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 00:28:38 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 00:28:38 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 00:28:38 : 4 -rwxr-xr-x 1 baptiste baptiste   42 janv. 28 22:16 test
+29/01/2017 00:28:38 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 00:29:10 : ls -als 
+29/01/2017 00:29:12 : ls
+29/01/2017 00:29:13 : ls
+29/01/2017 00:29:14 : ls
+29/01/2017 00:29:15 : ls
+29/01/2017 00:29:17 : ls -aks
+29/01/2017 00:29:20 : ls -als   
+29/01/2017 00:30:00 : ls -als | grep l
+29/01/2017 00:30:15 : ls -als | grep l | grep make
+29/01/2017 00:30:28 : ls -als | grep l | grep Make
+29/01/2017 00:30:34 : ls -als
+29/01/2017 00:30:38 : ls -als
+29/01/2017 00:30:42 : ls -als 
+29/01/2017 00:30:47 : ls -als    
+29/01/2017 00:30:56 : ls -als | grep k
+29/01/2017 00:31:10 : ls -als | grep k | grep k
+29/01/2017 09:52:58 : ls
+29/01/2017 09:53:00 : ls
+29/01/2017 09:53:02 : ls -als
+29/01/2017 09:53:04 : ls -als   
+29/01/2017 09:53:09 : ls -als | grep l
+29/01/2017 09:55:04 : ls -als
+29/01/2017 10:02:01 : ls -als
+29/01/2017 10:02:08 : 
+29/01/2017 10:02:08 : 
+29/01/2017 10:02:09 : 
+29/01/2017 10:02:10 : ls
+29/01/2017 10:02:13 : ls -als
+29/01/2017 10:02:18 : ls -als | grep l
+29/01/2017 10:03:13 : ls -als
+29/01/2017 10:03:38 : ls -als | grep l
+29/01/2017 10:18:25 : ls -als
+29/01/2017 10:19:03 : ls -als
+29/01/2017 10:19:32 : ls -als
+29/01/2017 10:19:54 : ls -als
+29/01/2017 10:20:18 : ls -als | grep k
+29/01/2017 10:20:24 : ls
+29/01/2017 10:20:27 : ls > grep
+29/01/2017 10:20:27 : bin
+29/01/2017 10:20:27 : doc
+29/01/2017 10:20:27 : gcov
+29/01/2017 10:20:27 : lib
+29/01/2017 10:20:27 : Makefile
+29/01/2017 10:20:27 : Makefile.bak
+29/01/2017 10:20:27 : misc
+29/01/2017 10:20:27 : src
+29/01/2017 10:20:27 : test
+29/01/2017 10:20:27 : TODO
+29/01/2017 10:20:59 : ls -als > ./test
+29/01/2017 10:21:10 : ls -als >> ./test
+29/01/2017 10:30:50 : ls -als | grep l ; ls -als | grep k
+29/01/2017 10:31:08 : ls -als ; ls -als
+29/01/2017 10:31:17 : ls -als ; ls -als ; ls -als | grep k
+29/01/2017 10:31:18 : total 48
+29/01/2017 10:31:18 : 4 drwxr-xr-x 8 baptiste baptiste 4096 janv. 28 22:15 .
+29/01/2017 10:31:18 : 4 drwxr-xr-x 6 baptiste baptiste 4096 déc.  27 16:25 ..
+29/01/2017 10:31:18 : 4 drwxr-xr-x 2 baptiste baptiste 4096 janv. 29 10:20 bin
+29/01/2017 10:31:18 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:46 doc
+29/01/2017 10:31:18 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:31:18 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:31:18 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:31:18 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:31:18 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:31:18 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:31:18 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:31:18 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:32:21 : ls -als | grep k
+29/01/2017 10:32:36 : ls -als | grep k; ls -als | grep l
+29/01/2017 10:32:37 : total 48
+29/01/2017 10:32:37 : total 48
+29/01/2017 10:32:37 : 4 drwxr-xr-x 8 baptiste baptiste 4096 janv. 28 22:15 .
+29/01/2017 10:32:37 : 4 drwxr-xr-x 6 baptiste baptiste 4096 déc.  27 16:25 ..
+29/01/2017 10:32:37 : 4 drwxr-xr-x 2 baptiste baptiste 4096 janv. 29 10:20 bin
+29/01/2017 10:32:37 : 4 drwxr-xr-x 8 baptiste baptiste 4096 janv. 28 22:15 .
+29/01/2017 10:32:37 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:46 doc
+29/01/2017 10:32:37 : 4 drwxr-xr-x 6 baptiste baptiste 4096 déc.  27 16:25 ..
+29/01/2017 10:32:37 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:32:37 : 4 drwxr-xr-x 2 baptiste baptiste 4096 janv. 29 10:20 bin
+29/01/2017 10:32:37 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:32:37 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:46 doc
+29/01/2017 10:32:37 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:32:37 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:32:37 : 29/01/2017 10:32:37 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:32:37 : 29/01/2017 10:32:37 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:32:37 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:32:37 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:32:37 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:32:37 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:32:37 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:32:37 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:32:37 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:32:37 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:37:15 : ls -als
+29/01/2017 10:37:26 : ls -als | grep l; ls -als | grep k
+29/01/2017 10:37:26 : total 48
+29/01/2017 10:37:26 : total 48
+29/01/2017 10:37:26 : 4 drwxr-xr-x 8 baptiste baptiste 4096 janv. 28 22:15 .
+29/01/2017 10:37:26 : 4 drwxr-xr-x 6 baptiste baptiste 4096 déc.  27 16:25 ..
+29/01/2017 10:37:26 : 4 drwxr-xr-x 8 baptiste baptiste 4096 janv. 28 22:15 .
+29/01/2017 10:37:26 : 4 drwxr-xr-x 2 baptiste baptiste 4096 janv. 29 10:37 bin
+29/01/2017 10:37:26 : 4 drwxr-xr-x 6 baptiste baptiste 4096 déc.  27 16:25 ..
+29/01/2017 10:37:26 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:46 doc
+29/01/2017 10:37:26 : 4 drwxr-xr-x 2 baptiste baptiste 4096 janv. 29 10:37 bin
+29/01/2017 10:37:26 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:37:26 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:46 doc
+29/01/2017 10:37:26 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:37:26 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:37:26 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:37:26 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:37:26 : 29/01/2017 10:37:26 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:37:27 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:37:27 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:37:27 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:37:27 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:37:27 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:37:27 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:37:27 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:37:27 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:37:27 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:38:13 : ls -als | grep l ; ls -als | grep k
+29/01/2017 10:38:47 : ls -als | grep l;ls -als | grep k
+29/01/2017 10:38:47 : total 48
+29/01/2017 10:38:47 : total 48
+29/01/2017 10:38:47 : 4 drwxr-xr-x 8 baptiste baptiste 4096 janv. 28 22:15 .
+29/01/2017 10:38:47 : 4 drwxr-xr-x 6 baptiste baptiste 4096 déc.  27 16:25 ..
+29/01/2017 10:38:47 : 4 drwxr-xr-x 8 baptiste baptiste 4096 janv. 28 22:15 .
+29/01/2017 10:38:47 : 4 drwxr-xr-x 2 baptiste baptiste 4096 janv. 29 10:37 bin
+29/01/2017 10:38:47 : 4 drwxr-xr-x 6 baptiste baptiste 4096 déc.  27 16:25 ..
+29/01/2017 10:38:47 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:46 doc
+29/01/2017 10:38:47 : 4 drwxr-xr-x 2 baptiste baptiste 4096 janv. 29 10:37 bin
+29/01/2017 10:38:47 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:38:47 : 29/01/2017 10:38:47 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:46 doc
+29/01/2017 10:38:48 : 29/01/2017 10:38:48 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:38:48 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:38:48 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:38:48 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:38:48 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:38:48 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:38:48 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:38:48 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:38:48 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:38:48 : 29/01/2017 10:38:48 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:38:48 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:38:48 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:39:28 : ls -als | grep l
+29/01/2017 10:47:23 : ls -als | grep l
+29/01/2017 10:48:36 : ls -als | grep l
+29/01/2017 10:49:37 : ls -als | grep l
+29/01/2017 10:49:58 : ls -als > grep l
+29/01/2017 10:50:08 : ls -als >> ./res
+29/01/2017 10:50:12 : cat ./res
+29/01/2017 10:50:22 : rm ./res
+29/01/2017 10:50:23 : ls
+29/01/2017 10:50:30 : ls -als
+29/01/2017 10:51:26 : ls -als | grep l
+29/01/2017 10:52:47 : ls -als | grep l
+29/01/2017 10:54:54 : ls -als | grep l
+29/01/2017 10:54:54 : total 48
+29/01/2017 10:54:54 : 4 drwxr-xr-x 8 baptiste baptiste 4096 janv. 29 10:50 .
+29/01/2017 10:54:54 : 4 drwxr-xr-x 8 baptiste baptiste 4096 janv. 29 10:50 .
+29/01/2017 10:54:54 : 4 drwxr-xr-x 6 baptiste baptiste 4096 déc.  27 16:25 ..
+29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 4 drwxr-xr-x 6 baptiste baptiste 4096 déc.  27 16:25 ..
+4 drwxr-xr-x 6 baptiste baptiste 4096 déc.  27 16:25 ..
+29/01/2017 10:54:54 : 4 drwxr-xr-x 6 baptiste baptiste 4096 déc.  27 16:25 ..
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 janv. 29 10:54 bin
+29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 janv. 29 10:54 bin
+4 drwxr-xr-x 2 baptiste baptiste 4096 janv. 29 10:54 bin
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 janv. 29 10:54 bin
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 janv. 29 10:54 bin
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 janv. 29 10:54 bin
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 janv. 29 10:54 bin
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:46 doc
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 janv. 29 10:54 bin
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:46 doc
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:46 doc
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:46 doc
+29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:46 doc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:46 doc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:46 doc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:46 doc
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:46 doc
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:46 doc
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:46 doc
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:46 doc
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:46 doc
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:46 doc
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:46 doc
+29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:46 doc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:54:54 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:48 gcov
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:54 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:54 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:54 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:54 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:54 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:54 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:54 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:54:54 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:55 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:55 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:55 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  27 16:42 lib
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:54:55 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:54:55 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:54:56 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:54:56 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:54:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:54:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:54:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:54:56 : 29/01/2017 10:54:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:54:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:54:56 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:54:56 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:54:57 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:54:57 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:54:57 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:54:57 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:54:57 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:54:57 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:54:55 : 29/01/2017 10:54:58 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:54:58 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:58 : 29/01/2017 10:54:58 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:54:59 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:54:59 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:54:59 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:54:59 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:54:59 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:54:59 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:54:55 : 29/01/2017 10:54:59 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:54:59 : 29/01/2017 10:54:55 : 29/01/2017 10:54:55 : 29/01/2017 10:55:00 : 29/01/2017 10:54:59 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:00 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:01 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:54:55 : 29/01/2017 10:55:02 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:02 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:55:02 : 29/01/2017 10:55:02 : 29/01/2017 10:55:02 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:55:02 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:02 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:02 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:02 : 29/01/2017 10:54:55 : 29/01/2017 10:55:03 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:03 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:03 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:03 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:03 : 29/01/2017 10:55:03 : 29/01/2017 10:54:55 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:55:03 : 29/01/2017 10:55:03 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:03 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:55:03 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:03 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:03 : 29/01/2017 10:55:03 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:03 : 29/01/2017 10:55:03 : 29/01/2017 10:55:03 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:03 : 29/01/2017 10:55:03 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:04 : 29/01/2017 10:55:04 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:04 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:04 : 29/01/2017 10:55:04 : 29/01/2017 10:55:04 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:05 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:05 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:54:55 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:05 : 29/01/2017 10:55:03 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:54:58 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:05 : 29/01/2017 10:54:59 : 29/01/2017 10:55:01 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:54:55 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:07 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:55:07 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:07 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:07 : 29/01/2017 10:55:07 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:55:07 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:08 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:08 : 29/01/2017 10:55:04 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:08 : 29/01/2017 10:55:08 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:08 : 29/01/2017 10:55:08 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:06 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:08 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:09 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:09 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:09 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:09 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:09 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:09 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:09 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:54:55 : 29/01/2017 10:55:10 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:11 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:11 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:10 : 29/01/2017 10:54:58 : 29/01/2017 10:55:12 : 29/01/2017 10:55:12 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:01 : 29/01/2017 10:54:59 : 29/01/2017 10:55:12 : 29/01/2017 10:55:12 : 29/01/2017 10:55:12 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:12 : 29/01/2017 10:55:12 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:12 : 29/01/2017 10:55:15 : 29/01/2017 10:55:15 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:12 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:13 : 29/01/2017 10:55:13 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:13 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:15 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:13 : 29/01/2017 10:55:13 : 29/01/2017 10:55:15 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:16 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:16 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:16 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:16 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:01 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:54:55 : 29/01/2017 10:55:17 : 29/01/2017 10:55:17 : 29/01/2017 10:55:17 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:18 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:18 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:18 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:18 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:18 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:18 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:18 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:18 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:18 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:18 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:18 : 29/01/2017 10:55:18 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:18 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:18 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:18 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:55:13 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:15 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:19 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:19 : 29/01/2017 10:55:06 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:19 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:19 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:19 : 29/01/2017 10:55:19 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:19 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:19 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:19 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:19 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:20 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:20 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:20 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:20 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:20 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:20 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:20 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:20 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:20 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:20 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:20 : 29/01/2017 10:55:20 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:20 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:20 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:20 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:20 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:20 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:20 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:20 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:20 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:21 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:20 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:21 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:21 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:21 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:21 : 29/01/2017 10:55:21 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:21 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:21 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:21 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:21 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:22 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:22 : 29/01/2017 10:55:22 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:22 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:22 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:22 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:22 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:22 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:22 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:22 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:06 : 29/01/2017 10:55:23 : 29/01/2017 10:55:23 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:23 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:23 : 29/01/2017 10:55:23 : 29/01/2017 10:55:24 : 29/01/2017 10:55:24 : 29/01/2017 10:55:25 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:24 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:19 : 29/01/2017 10:55:24 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:25 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:24 : 29/01/2017 10:55:24 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:25 : 29/01/2017 10:55:25 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:25 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:14 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:24 : 29/01/2017 10:55:24 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:25 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:24 : 29/01/2017 10:55:25 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:25 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:25 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:24 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:25 : 29/01/2017 10:55:25 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:25 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:26 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:26 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:26 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:26 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:26 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:13 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:26 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:26 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:26 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:26 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:26 : 29/01/2017 10:55:22 : 29/01/2017 10:55:26 : 29/01/2017 10:55:14 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:13 : 29/01/2017 10:55:27 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:27 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:27 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:13 : 29/01/2017 10:55:28 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:29 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:29 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:29 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:29 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:30 : 29/01/2017 10:55:30 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:30 : 29/01/2017 10:55:30 : 29/01/2017 10:55:30 : 29/01/2017 10:55:30 : 29/01/2017 10:55:30 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:30 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:30 : 29/01/2017 10:55:30 : 29/01/2017 10:55:30 : 29/01/2017 10:55:30 : 29/01/2017 10:55:30 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:55:30 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:30 : 29/01/2017 10:55:30 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:13 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:13 : 29/01/2017 10:55:13 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:32 : 29/01/2017 10:55:32 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:32 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:13 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:13 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:13 : 29/01/2017 10:55:32 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:32 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:14 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:33 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:33 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:34 : 29/01/2017 10:55:34 : 29/01/2017 10:55:34 : 29/01/2017 10:55:20 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:14 : 29/01/2017 10:54:55 : 29/01/2017 10:55:13 : 29/01/2017 10:55:21 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:13 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:19 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:41 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:42 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:44 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:08 : 29/01/2017 10:54:55 : 29/01/2017 10:55:45 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:40 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:45 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:42 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:45 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:45 : 29/01/2017 10:55:45 : 29/01/2017 10:55:46 : 29/01/2017 10:55:46 : 29/01/2017 10:55:46 : 29/01/2017 10:55:23 : 29/01/2017 10:55:46 : 29/01/2017 10:55:46 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:34 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:31 : 29/01/2017 10:55:30 : 29/01/2017 10:55:31 : 29/01/2017 10:55:32 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:31 : 29/01/2017 10:55:08 : 29/01/2017 10:55:32 : 29/01/2017 10:55:32 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:32 : 29/01/2017 10:55:46 : 29/01/2017 10:55:46 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:46 : 29/01/2017 10:55:46 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:46 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:31 : 29/01/2017 10:55:48 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:30 : 29/01/2017 10:55:47 : 29/01/2017 10:55:46 : 29/01/2017 10:55:47 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:46 : 29/01/2017 10:55:40 : 29/01/2017 10:55:39 : 29/01/2017 10:55:40 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:40 : 29/01/2017 10:55:40 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:55:48 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:43 : 29/01/2017 10:55:43 : 29/01/2017 10:55:40 : 29/01/2017 10:55:39 : 29/01/2017 10:55:42 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:46 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:42 : 29/01/2017 10:55:32 : 29/01/2017 10:55:35 : 29/01/2017 10:55:48 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:40 : 29/01/2017 10:55:39 : 29/01/2017 10:55:40 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:39 : 29/01/2017 10:55:35 : 29/01/2017 10:55:38 : 29/01/2017 10:55:40 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:39 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:35 : 29/01/2017 10:55:34 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:37 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:40 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:48 : 29/01/2017 10:55:48 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:40 : 29/01/2017 10:55:39 : 29/01/2017 10:55:35 : 29/01/2017 10:55:35 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:43 : 29/01/2017 10:55:41 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:35 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:39 : 29/01/2017 10:55:43 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:48 : 29/01/2017 10:55:48 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:48 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:46 : 29/01/2017 10:55:39 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:38 : 29/01/2017 10:55:50 : 29/01/2017 10:55:50 : 29/01/2017 10:55:50 : 29/01/2017 10:55:50 : 29/01/2017 10:55:34 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:50 : 29/01/2017 10:55:50 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:50 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:50 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:50 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:32 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:50 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:34 : 29/01/2017 10:55:39 : 29/01/2017 10:55:35 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:39 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:50 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:40 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:30 : 29/01/2017 10:55:50 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:32 : 29/01/2017 10:55:50 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:50 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:50 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:50 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:50 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:32 : 29/01/2017 10:55:31 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:51 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:40 : 29/01/2017 10:55:32 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:35 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:35 : 29/01/2017 10:55:46 : 29/01/2017 10:55:51 : 29/01/2017 10:55:51 : 29/01/2017 10:55:50 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:40 : 29/01/2017 10:55:32 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:51 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:51 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:13 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:52 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:52 : 29/01/2017 10:55:52 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:52 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:52 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:26 : 29/01/2017 10:55:32 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:42 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:53 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:53 : 29/01/2017 10:55:53 : 29/01/2017 10:55:53 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:45 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:53 : 29/01/2017 10:55:53 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:20 : 29/01/2017 10:55:42 : 29/01/2017 10:55:38 : 29/01/2017 10:55:36 : 29/01/2017 10:55:38 : 29/01/2017 10:55:43 : 29/01/2017 10:55:39 : 29/01/2017 10:55:54 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:54 : 29/01/2017 10:55:53 : 29/01/2017 10:55:54 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:55 : 29/01/2017 10:55:55 : 29/01/2017 10:55:55 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:53 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:53 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:57 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:57 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:39 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:39 : 29/01/2017 10:55:57 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:40 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:57 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:57 : 29/01/2017 10:55:34 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:57 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:34 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:57 : 29/01/2017 10:55:57 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:57 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:35 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:54 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:34 : 29/01/2017 10:55:38 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:57 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:43 : 29/01/2017 10:55:39 : 29/01/2017 10:55:53 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:57 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:57 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:36 : 29/01/2017 10:55:35 : 29/01/2017 10:55:39 : 29/01/2017 10:55:32 : 29/01/2017 10:55:39 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:57 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:57 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:57 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:57 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:54 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:42 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:58 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:58 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:58 : 29/01/2017 10:55:58 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:58 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:58 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:58 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:57 : 29/01/2017 10:55:57 : 29/01/2017 10:55:59 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:42 : 29/01/2017 10:55:59 : 29/01/2017 10:55:59 : 29/01/2017 10:55:58 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:59 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:53 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:59 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:56:09 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:42 : 29/01/2017 10:55:59 : 29/01/2017 10:56:00 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:40 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:53 : 29/01/2017 10:55:42 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:56:00 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:56:09 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:43 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:56:01 : 29/01/2017 10:56:01 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:56:01 : 29/01/2017 10:56:01 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:54 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:35 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:39 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:53 : 29/01/2017 10:55:50 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:43 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:01 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:56:02 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:09 : 29/01/2017 10:55:54 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:42 : 29/01/2017 10:55:35 : 29/01/2017 10:55:39 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:53 : 29/01/2017 10:56:03 : 29/01/2017 10:56:03 : 29/01/2017 10:56:03 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:03 : 29/01/2017 10:55:39 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:56:04 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:56:04 : 29/01/2017 10:56:04 : 29/01/2017 10:56:04 : 29/01/2017 10:56:03 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:56:04 : 29/01/2017 10:56:04 : 29/01/2017 10:56:03 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:55 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:56:09 : 29/01/2017 10:56:09 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:09 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:56:09 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:54:55 : 29/01/2017 10:56:05 : 29/01/2017 10:56:05 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:56:05 : 29/01/2017 10:56:05 : 29/01/2017 10:56:05 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:05 : 29/01/2017 10:56:05 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:05 : 29/01/2017 10:56:05 : 29/01/2017 10:56:05 : 29/01/2017 10:56:06 : 29/01/2017 10:56:06 : 29/01/2017 10:56:00 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:44 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:56:07 : 29/01/2017 10:56:07 : 29/01/2017 10:56:07 : 29/01/2017 10:56:07 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:56:09 : 29/01/2017 10:56:09 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:56:09 : 29/01/2017 10:56:09 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:56:09 : 29/01/2017 10:56:09 : 29/01/2017 10:56:09 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:56:09 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:09 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:56:09 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:56:09 : 29/01/2017 10:56:09 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:56:09 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:09 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:35 : 29/01/2017 10:55:39 : 29/01/2017 10:55:35 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:59 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:09 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:56:09 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:56:09 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:55:46 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:57 : 29/01/2017 10:56:09 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:56:10 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:40 : 29/01/2017 10:55:35 : 29/01/2017 10:56:10 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:56:10 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:56:10 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:53 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:11 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:56:12 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:39 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:09 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:39 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:12 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:56:12 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:12 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:12 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:56:12 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:13 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:56:13 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:56:13 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:13 : 29/01/2017 10:55:31 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:14 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:56:14 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:14 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:56:03 : 29/01/2017 10:56:14 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:56:14 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:56:14 : 29/01/2017 10:56:14 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:46 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:15 : 29/01/2017 10:56:07 : 29/01/2017 10:55:57 : 29/01/2017 10:55:39 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:13 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:56:15 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:56:15 : 29/01/2017 10:56:09 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:17 : 29/01/2017 10:56:16 : 29/01/2017 10:56:13 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:56:17 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:56:18 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:56:12 : 29/01/2017 10:56:17 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:56:18 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:19 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:56:19 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:56:19 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:56:19 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:56:19 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:55:40 : 29/01/2017 10:56:15 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:19 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:56:19 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:56:20 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:20 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:56:20 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:56:20 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:56:20 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:20 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:56:20 : 29/01/2017 10:56:20 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:56:20 : 29/01/2017 10:55:37 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:56:09 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:56:23 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:23 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:23 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:23 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:23 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:23 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:00 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:56:10 : 29/01/2017 10:56:09 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:03 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:24 : 29/01/2017 10:55:57 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:14 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:56:09 : 29/01/2017 10:56:26 : 29/01/2017 10:56:26 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:26 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:56:02 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:28 : 29/01/2017 10:56:26 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:22 : 29/01/2017 10:56:31 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:56:05 : 29/01/2017 10:56:31 : 29/01/2017 10:56:35 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:22 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:21 : 29/01/2017 10:56:20 : 29/01/2017 10:56:23 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:20 : 29/01/2017 10:56:22 : 29/01/2017 10:56:14 : 29/01/2017 10:56:36 : 29/01/2017 10:56:22 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:15 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:21 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:56:21 : 29/01/2017 10:56:21 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:56:37 : 29/01/2017 10:56:22 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:21 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:56 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:39 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:17 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:37 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:20 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:32 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:34 : 29/01/2017 10:55:40 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:33 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:56:23 : 29/01/2017 10:56:01 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:09 : 29/01/2017 10:56:44 : 29/01/2017 10:56:29 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:24 : 29/01/2017 10:56:26 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:38 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:16 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:14 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:44 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:43 : 29/01/2017 10:56:54 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:55:54 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:24 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:47 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:56:46 : 29/01/2017 10:56:32 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:26 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:31 : 29/01/2017 10:55:25 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:44 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:56 : 29/01/2017 10:55:35 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:10 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:36 : 29/01/2017 10:55:42 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:56:09 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:03 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:11 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:55:06 : 29/01/2017 10:55:41 : 29/01/2017 10:56:43 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:11 : 29/01/2017 10:56:02 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:43 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:55:33 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:56:46 : 29/01/2017 10:56:48 : 29/01/2017 10:56:56 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:57:08 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:57:04 : 29/01/2017 10:57:05 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:58:15 : 29/01/2017 10:58:16 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:16 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:16 : 29/01/2017 10:58:16 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:16 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:20 : 29/01/2017 10:58:16 : 29/01/2017 10:58:16 : 29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:58:15 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:58:15 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:58:15 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:58:15 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:58:18 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:27 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:58:16 : 29/01/2017 10:58:27 : 29/01/2017 10:58:16 : 29/01/2017 10:58:15 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:58:16 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:58:15 : 29/01/2017 10:58:15 : 29/01/2017 10:58:21 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:58:15 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 10:58:16 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:58:23 : 29/01/2017 10:58:30 : 29/01/2017 10:58:33 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:58:29 : 29/01/2017 10:58:26 : 29/01/2017 10:58:37 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 10:59:49 : 29/01/2017 10:59:50 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:57 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:58 : 29/01/2017 10:59:53 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:51 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:50 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:53 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:50 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:50 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:55 : 29/01/2017 10:59:53 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:50 : 29/01/2017 10:59:49 : 29/01/2017 10:59:50 : 29/01/2017 10:59:49 : 29/01/2017 10:59:53 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:54 : 29/01/2017 10:59:50 : 29/01/2017 10:59:54 : 29/01/2017 10:59:49 : 29/01/2017 10:59:50 : 29/01/2017 10:59:50 : 29/01/2017 10:59:52 : 29/01/2017 10:59:49 : 29/01/2017 10:59:53 : 29/01/2017 10:59:49 : 29/01/2017 10:59:56 : 29/01/2017 10:59:49 : 29/01/2017 10:59:59 : 29/01/2017 10:59:49 : 29/01/2017 10:59:54 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:53 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:52 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:53 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:57 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:57 : 29/01/2017 10:59:59 : 29/01/2017 10:59:53 : 29/01/2017 10:59:59 : 29/01/2017 10:59:56 : 29/01/2017 10:59:55 : 29/01/2017 10:59:56 : 29/01/2017 10:59:57 : 29/01/2017 10:59:50 : 29/01/2017 10:59:50 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:59 : 29/01/2017 10:59:57 : 29/01/2017 10:59:58 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:53 : 29/01/2017 10:59:53 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:50 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:50 : 29/01/2017 10:59:59 : 29/01/2017 11:00:00 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:59:50 : 29/01/2017 10:59:50 : 29/01/2017 10:59:50 : 29/01/2017 10:59:49 : 29/01/2017 10:59:57 : 29/01/2017 10:59:49 : 29/01/2017 10:59:50 : 29/01/2017 10:59:50 : 29/01/2017 10:59:52 : 29/01/2017 10:59:52 : 29/01/2017 10:59:50 : 29/01/2017 10:59:50 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:59:49 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:59 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:59:54 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:59:51 : 29/01/2017 10:59:54 : 29/01/2017 10:59:51 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:59:57 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:59:56 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:59:49 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:59:50 : 29/01/2017 10:59:50 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:59:51 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:59:49 : 29/01/2017 10:59:59 : 29/01/2017 10:59:49 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:02 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 10:59:50 : 29/01/2017 10:59:49 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:59:55 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:59:51 : 29/01/2017 10:59:49 : 29/01/2017 10:59:50 : 29/01/2017 10:59:49 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:59:56 : 29/01/2017 10:59:53 : 29/01/2017 10:59:53 : 29/01/2017 11:00:01 : 29/01/2017 10:59:53 : 29/01/2017 10:59:49 : 29/01/2017 10:59:50 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:03 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:59:51 : 29/01/2017 11:00:00 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:59:49 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:59:49 : 29/01/2017 10:59:50 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:00:02 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:59:49 : 29/01/2017 10:59:58 : 29/01/2017 10:59:49 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:59:49 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:59:49 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 10:59:50 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:59:50 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 10:59:59 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:59:53 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:02 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:00:05 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 10:59:49 : 29/01/2017 10:59:58 : 29/01/2017 10:59:56 : 29/01/2017 10:59:56 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:07 : 29/01/2017 10:59:51 : 29/01/2017 10:59:49 : 29/01/2017 10:59:49 : 29/01/2017 11:00:00 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 10:59:59 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:04 : 29/01/2017 10:59:53 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:01:01 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:00 : 29/01/2017 11:00:56 : 29/01/2017 11:00:59 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:56 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:56 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:01:00 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:05 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:05 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:00:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:06 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:06 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:07 : 29/01/2017 11:01:07 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:04 : 29/01/2017 11:01:09 : 29/01/2017 11:01:07 : 29/01/2017 11:01:08 : 29/01/2017 11:01:09 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:08 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:00:56 : 29/01/2017 11:01:10 : 29/01/2017 11:01:11 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:09 : 29/01/2017 11:01:11 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:12 : 29/01/2017 11:01:12 : 29/01/2017 11:01:12 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:00:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:12 : 29/01/2017 11:01:12 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:12 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:13 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:13 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:14 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:14 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:09 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:11 : 29/01/2017 11:01:17 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:01:18 : 29/01/2017 11:00:57 : 29/01/2017 11:01:18 : 29/01/2017 11:01:20 : 29/01/2017 11:01:18 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:01:20 : 29/01/2017 11:01:22 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:26 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:00:56 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:56 : 29/01/2017 11:01:26 : 29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:36 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:01:36 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:00 : 29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:56 : 29/01/2017 11:01:36 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:56 : 29/01/2017 11:01:27 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:02 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:27 : 29/01/2017 11:00:56 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:56 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:00:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:27 : 29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:59 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:01:03 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:57 : 29/01/2017 11:01:02 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:01:02 : 29/01/2017 11:00:56 : 29/01/2017 11:01:02 : 29/01/2017 11:01:02 : 29/01/2017 11:01:02 : 29/01/2017 11:00:59 : 29/01/2017 11:00:58 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:01:02 : 29/01/2017 11:01:02 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:56 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:10 : 29/01/2017 11:00:56 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:00:56 : 29/01/2017 11:01:02 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:01:09 : 29/01/2017 11:01:38 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:38 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:38 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:38 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:38 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:00:56 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:02 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:38 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:38 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:02 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:56 : 29/01/2017 11:01:34 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:38 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:32 : 29/01/2017 11:01:02 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:39 : 29/01/2017 11:01:39 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:39 : 29/01/2017 11:01:39 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:39 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:39 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:39 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:40 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:40 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:00:56 : 29/01/2017 11:01:40 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:40 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+29/01/2017 11:01:40 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:40 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:00:56 : 29/01/2017 11:00:57 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:41 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:41 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:41 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:41 : 29/01/2017 11:01:42 : 29/01/2017 11:01:41 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:42 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:43 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:01:28 : 29/01/2017 11:01:40 : 29/01/2017 11:01:05 : 29/01/2017 11:00:57 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:57 : 29/01/2017 11:00:56 : 29/01/2017 11:01:43 : 29/01/2017 11:00:56 : 29/01/2017 11:01:39 : 29/01/2017 11:01:00 : 29/01/2017 11:01:03 : 29/01/2017 11:01:02 : 29/01/2017 11:01:27 : 29/01/2017 11:01:27 : 29/01/2017 11:01:32 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:58 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:01:34 : 29/01/2017 11:00:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:00:56 : 29/01/2017 11:01:03 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:01:05 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:01:27 : 29/01/2017 11:01:27 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:59 : 29/01/2017 11:00:56 : 29/01/2017 11:01:27 : 29/01/2017 11:01:34 : 29/01/2017 11:00:56 : 29/01/2017 11:01:01 : 29/01/2017 11:00:57 : 29/01/2017 11:01:02 : 29/01/2017 11:00:56 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:00:59 : 29/01/2017 11:01:27 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:01:02 : 29/01/2017 11:01:02 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:56 : 29/01/2017 11:01:26 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:01:02 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:01:03 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:27 : 29/01/2017 11:00:56 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:56 : 29/01/2017 11:00:57 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:00:56 : 29/01/2017 11:01:01 : 29/01/2017 11:01:31 : 29/01/2017 11:01:27 : 29/01/2017 11:00:56 : 29/01/2017 11:00:59 : 29/01/2017 11:01:27 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:27 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:56 : 29/01/2017 11:01:34 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:58 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:02 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:01:27 : 29/01/2017 11:01:02 : 29/01/2017 11:00:57 : 29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:27 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:56 : 29/01/2017 11:01:31 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:57 : 29/01/2017 11:00:57 : 29/01/2017 11:01:31 : 29/01/2017 11:01:32 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:01 : 29/01/2017 11:01:27 : 29/01/2017 11:00:56 : 29/01/2017 11:00:58 : 29/01/2017 11:01:27 : 29/01/2017 11:00:56 : 29/01/2017 11:01:02 : 29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:47 : 29/01/2017 11:00:56 : 29/01/2017 11:01:32 : 29/01/2017 11:00:56 : 29/01/2017 11:01:27 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:01:32 : 29/01/2017 11:00:56 : 29/01/2017 11:01:02 : 29/01/2017 11:00:56 : 29/01/2017 11:01:31 : 29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:56 : 29/01/2017 11:01:03 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:59 : 29/01/2017 11:01:02 : 29/01/2017 11:00:56 : 29/01/2017 11:01:02 : 29/01/2017 11:01:27 : 29/01/2017 11:01:02 : 29/01/2017 11:01:03 : 29/01/2017 11:01:03 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:00:56 : 29/01/2017 11:01:15 : 29/01/2017 11:00:56 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:00:56 : 29/01/2017 11:01:32 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:56 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:00 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:02:24 : 29/01/2017 11:02:24 : 29/01/2017 11:02:24 : 29/01/2017 11:01:52 : 29/01/2017 11:02:08 : 29/01/2017 11:01:02 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:00 : 29/01/2017 11:01:02 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:00:56 : 29/01/2017 11:02:08 : 29/01/2017 11:00:56 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:28 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:01:52 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:02:25 : 29/01/2017 11:01:51 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:02:25 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:02:28 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:27 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:02:29 : 29/01/2017 11:00:56 : 29/01/2017 11:01:47 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:02:25 : 29/01/2017 11:01:47 : 29/01/2017 11:02:25 : 29/01/2017 11:00:56 : 29/01/2017 11:01:30 : 29/01/2017 11:00:57 : 29/01/2017 11:00:57 : 29/01/2017 11:00:57 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:00:56 : 29/01/2017 11:01:34 : 29/01/2017 11:00:56 : 29/01/2017 11:01:34 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:02:24 : 29/01/2017 11:00:56 : 29/01/2017 11:01:02 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:02:30 : 29/01/2017 11:01:31 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:47 : 29/01/2017 11:01:00 : 29/01/2017 11:02:30 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:02:25 : 29/01/2017 11:02:06 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:00:56 : 29/01/2017 11:01:30 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:02:25 : 29/01/2017 11:02:35 : 29/01/2017 11:02:37 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:56 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:02:24 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:02:33 : 29/01/2017 11:02:30 : 29/01/2017 11:01:39 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:02:27 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:02:27 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:02:24 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:46 : 29/01/2017 11:01:08 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:02:31 : 29/01/2017 11:00:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:27 : 29/01/2017 11:02:27 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:02:29 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:02:28 : 29/01/2017 11:00:59 : 29/01/2017 11:02:24 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:32 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:02:24 : 29/01/2017 11:02:29 : 29/01/2017 11:00:56 : 29/01/2017 11:01:52 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:03 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:02:08 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:01:38 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:02:40 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:27 : 29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:02:36 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:02:32 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:52 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:58 : 29/01/2017 11:00:56 : 29/01/2017 11:00:59 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:01:27 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:52 : 29/01/2017 11:01:02 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:02 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:01:27 : 29/01/2017 11:02:42 : 29/01/2017 11:01:27 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:02 : 29/01/2017 11:00:57 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:56 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:02:50 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:02:39 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:02:08 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:56 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:03 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:31 : 29/01/2017 11:01:02 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:27 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:27 : 29/01/2017 11:02:56 : 29/01/2017 11:01:00 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:00:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:30 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:02:35 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:00 : 29/01/2017 11:00:56 : 29/01/2017 11:01:32 : 29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:56 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:01:47 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:02:58 : 29/01/2017 11:01:52 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:34 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:01:34 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:02 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:02:08 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:00:58 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:47 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:27 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:04 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:27 : 29/01/2017 11:00:56 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:52 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:02 : 29/01/2017 11:01:27 : 29/01/2017 11:02:38 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:01:32 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:14 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:47 : 29/01/2017 11:02:22 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:02:08 : 29/01/2017 11:00:56 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:00:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:02 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:02:27 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:34 : 29/01/2017 11:03:06 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:52 : 29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:02:09 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:02 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:47 : 29/01/2017 11:00:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:02:08 : 29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:01:34 : 29/01/2017 11:00:56 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:56 : 29/01/2017 11:01:28 : 29/01/2017 11:01:52 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:00:58 : 29/01/2017 11:00:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:00:56 : 29/01/2017 11:00:56 : 29/01/2017 11:01:02 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:57 : 29/01/2017 11:01:52 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:31 : 29/01/2017 11:00:56 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:03:13 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:32 : 29/01/2017 11:03:08 : 29/01/2017 11:00:57 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:56 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:52 : 29/01/2017 11:00:59 : 29/01/2017 11:00:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:00:56 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:35 : 29/01/2017 11:00:56 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:00:57 : 29/01/2017 11:01:00 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:00:56 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:02 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:00:57 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:00:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:00:56 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:56 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:57 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:00:56 : 29/01/2017 11:02:58 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:02:58 : 29/01/2017 11:00:56 : 29/01/2017 11:01:04 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:52 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:52 : 29/01/2017 11:00:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:56 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:03:12 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:00:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:03:07 : 29/01/2017 11:00:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:56 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:52 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:02:48 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:01:52 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:01:32 : 29/01/2017 11:00:59 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:02:32 : 29/01/2017 11:02:43 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:03:06 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:01:52 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:02:50 : 29/01/2017 11:02:48 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:02:50 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:32 : 29/01/2017 11:01:36 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:02:51 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:03:11 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:03:14 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:02:27 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:02:08 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:02:08 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:02:48 : 29/01/2017 11:01:52 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:03:13 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:03:13 : 29/01/2017 11:02:33 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:52 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:01:00 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:02:55 : 29/01/2017 11:03:15 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:03:11 : 29/01/2017 11:03:14 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:03:03 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:03:11 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:03:06 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:01:36 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:02:08 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:03:03 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:02:08 : 29/01/2017 11:02:34 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:27 : 29/01/2017 11:03:07 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:02:24 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:03:14 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:00:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:00:56 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:03:25 : 29/01/2017 11:02:09 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:03:24 : 29/01/2017 11:03:13 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:03:24 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:03:17 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:02:08 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:03:08 : 29/01/2017 11:02:08 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:02:51 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:03:16 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:03:21 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:03:10 : 29/01/2017 11:03:10 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:37 : 29/01/2017 11:03:04 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:03:20 : 29/01/2017 11:02:48 : 29/01/2017 11:01:31 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:52 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:52 : 29/01/2017 11:02:32 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:01:52 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:52 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:04 : 29/01/2017 11:03:33 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:02:33 : 29/01/2017 11:01:31 : 29/01/2017 11:02:35 : 29/01/2017 11:00:56 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:00:58 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:02:33 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 11:03:39 : 29/01/2017 11:00:56 : 29/01/2017 11:03:26 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:02:21 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 11:03:20 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:03:28 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 11:03:27 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 11:03:03 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:03:16 : 29/01/2017 11:03:13 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+29/01/2017 11:01:58 : 29/01/2017 11:01:27 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+29/01/2017 11:03:11 : 4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:02:25 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 11:03:23 : 29/01/2017 11:03:27 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 drwxr-xr-x 4 baptiste baptiste 4096 déc.  27 16:45 src
+4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+29/01/2017 11:02:51 : 4 -rw-r--r-- 1 baptiste baptiste  323 déc.  28 19:15 TODO
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 11:03:33 : 4 -rw-r--r-- 1 baptiste baptiste 1841 déc.  27 20:11 Makefile
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 11:03:37 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:03:26 : 4 -rw-r--r-- 1 baptiste baptiste 1386 déc.  27 19:35 Makefile.bak
+29/01/2017 11:03:13 : 4 drwxr-xr-x 2 baptiste baptiste 4096 déc.  28 19:10 misc
+4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 11:03:40 : 4 -rwxr-xr-x 1 baptiste baptiste 1434 janv. 29 10:21 test
+29/01/2017 15:21:05 : ls -als
+29/01/2017 15:21:11 : ls -als | grep l

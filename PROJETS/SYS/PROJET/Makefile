@@ -23,7 +23,7 @@ AR_NAME=archive_$(EXEC).tar.gz
 
 all: $(SRC) $(EXEC)
     
-%.o:%.c
+%.o:%.c %.h
 	$(CC) $(CFLAGS) $< $(LDFLAGS) -o $@
 
 $(EXEC): $(OBJ) 
@@ -67,9 +67,21 @@ depend:
 # Don't place anything below this line, since
 # the make depend program will overwrite it
 # DO NOT DELETE THIS LINE -- make depend depends on it.
+
 ./src/implementation/my_sh.o: /usr/include/stdio.h /usr/include/features.h
 ./src/implementation/my_sh.o: /usr/include/stdc-predef.h /usr/include/libio.h
 ./src/implementation/my_sh.o: /usr/include/_G_config.h /usr/include/wchar.h
 ./src/implementation/my_sh.o: /usr/include/stdlib.h /usr/include/alloca.h
 ./src/implementation/my_sh.o: /usr/include/string.h /usr/include/xlocale.h
-./src/implementation/my_sh.o: /usr/include/errno.h /usr/include/getopt.h
+./src/implementation/my_sh.o: /usr/include/errno.h /usr/include/unistd.h
+./src/implementation/my_sh.o: /usr/include/getopt.h /usr/include/fcntl.h
+./src/implementation/my_sh.o: /usr/include/time.h ./src/implementation/util.h
+./src/implementation/my_sh.o: ./src/implementation/my_sh.h
+./src/implementation/util.o: /usr/include/stdio.h /usr/include/features.h
+./src/implementation/util.o: /usr/include/stdc-predef.h /usr/include/libio.h
+./src/implementation/util.o: /usr/include/_G_config.h /usr/include/wchar.h
+./src/implementation/util.o: /usr/include/stdlib.h /usr/include/alloca.h
+./src/implementation/util.o: /usr/include/string.h /usr/include/xlocale.h
+./src/implementation/util.o: /usr/include/errno.h /usr/include/unistd.h
+./src/implementation/util.o: /usr/include/getopt.h /usr/include/fcntl.h
+./src/implementation/util.o: /usr/include/time.h ./src/implementation/util.h
