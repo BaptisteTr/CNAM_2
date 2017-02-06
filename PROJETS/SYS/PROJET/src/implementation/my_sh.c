@@ -68,21 +68,21 @@ int fork_pipes (int n, char ** input)
   pid_t pid;
   int in, fd [2];
 
-  /* The first process should get its input from the original file descriptor 0.  */
+  // The first process should get its input from the original file descriptor 0.
   in = 0;
 
-  /* Note the loop bound, we spawn here all, but the last stage of the pipeline.  */
+  // Note the loop bound, we spawn here all, but the last stage of the pipeline. 
   for (i = 0; i < n - 1; ++i)
     {
       pipe (fd);
 
-      /* f [1] is the write end of the pipe, we carry `in` from the prev iteration.  */
+      // f [1] is the write end of the pipe, we carry `in` from the prev iteration.
       init_pipe (in, fd [1], input[i]);
 
-      /* No need for the write end of the pipe, the child will write here.  */
+      // No need for the write end of the pipe, the child will write here. 
       close (fd [1]);
 
-      /* Keep the read end of the pipe, the next child will read from there.  */
+      // Keep the read end of the pipe, the next child will read from there. 
       in = fd [0];
     }
 
@@ -192,7 +192,7 @@ int exec_logical_operator(char * input_line){
 
     split_by_string_first_occurence(input_line,"||", &res_split);
 
-    if(main_exec(res_split[0]) == 1){
+    if(main_exec(res_split[0]) != 0 ){
       res = main_exec(res_split[1]);
     }
 
@@ -216,7 +216,7 @@ int exec_logical_operator(char * input_line){
 
     split_by_string_first_occurence(input_line,"||", &res_split);
 
-    if(main_exec(res_split[0]) == 1){
+    if(main_exec(res_split[0]) != 0){
       res = main_exec(res_split[1]);
     }
 
@@ -445,12 +445,12 @@ int main_exec(char * input_line)
   if( strstr(input_line,";")){
     res = exec_semicolon(input_line); // Lance autant d'exec de que bloc
   } 
-  
-  else if( input_line[strlen(input_line)-1] == '&'){
+
+  else if( input_line[strlen(input_line)-2] == '&'){ //Débugguer
     res = exec_background(input_line);// Lance l'exec dans un processus fils sans attente
   }
   
-  else if( strstr(input_line, "&&") || strstr(input_line, "||")){
+  else if( strstr(input_line, "&&") || strstr(input_line, "||")){ //Debugguer || commande non trouvée
     res = exec_logical_operator(input_line); // Lance des exec pour chaque bloc logique et test leurs validités
   }
   
@@ -518,19 +518,35 @@ char * read_and_histo(){
  *
  * \return EXIT_SUCCESS
  */
-int main(int argc, char** argv) //Interpréter directement argv pour les appels récursifs ?
+int main(int argc, char** argv) 
 {
-
   char* input_line;  
 
-  do{
-    dprintf(STDOUT,"my_sh> ");
-    
-    input_line = read_and_histo();
+  if(argc > 1){
 
-    main_exec(input_line);
+    if(strstr(argv[1], "-c")){
+      int i = 2;
+      char * res = "";
 
-  } while(1); //strcmp(input_line,"EXIT\n") != 0); // Remplacer par un cas dans le switch
+      while(i<argc){
 
+        input_line = concat(res,argv[i]);
+        i++;
+      }
+
+      main_exec(input_line);
+    }
+
+  } else {
+
+    do{
+      dprintf(STDOUT,"my_sh> ");
+      
+      input_line = read_and_histo();
+
+      main_exec(input_line);
+
+    } while(1); 
+  }
   return EXIT_SUCCESS;
 }

@@ -1,7 +1,8 @@
 Plan de développement:
 
-1. Créer l'architecture du projet (binaire principale, compilation, binaires secondaires, fichier d'historique...) -- Done
-2. Code de découpage des commandes saisies -- En cours
-3. Créer prototypes et analyser les structures de données à utiliser
-5. Binaires basiques (voir TP1)
-4. Le reste ??
+3. Tenter de débugguer le pipe -- Mardi soir
+4. Tenter d'implémenter un struct -- Reste
+
+Mercredi matin préparer pres.
+
+boucler les TP
