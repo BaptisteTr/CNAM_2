@@ -62,44 +62,37 @@ void print_usage(char* bin_name)
  *
  * \return execution result : 0 = OK
  */
-int fork_pipes (int n, char ** input)
+int fork_pipes (char ** input)
 {
-  int i, res;
-  pid_t pid;
-  int in, fd [2];
 
-  // The first process should get its input from the original file descriptor 0.
-  in = 0;
+  int status1, status2, res;
+  int fd[2]; 
 
-  // Note the loop bound, we spawn here all, but the last stage of the pipeline. 
-  for (i = 0; i < n - 1; ++i)
-    {
-      pipe (fd);
+  pipe(fd);
 
-      // f [1] is the write end of the pipe, we carry `in` from the prev iteration.
-      init_pipe (in, fd [1], input[i]);
+  if ( fork() == 0 ) {
+    close(fd[0]); 
+    dup2(fd[1], 1); 
 
-      // No need for the write end of the pipe, the child will write here. 
-      close (fd [1]);
+    main_exec(input[0]); 
 
-      // Keep the read end of the pipe, the next child will read from there. 
-      in = fd [0];
-    }
+    exit(0); 
+  }
 
-  /* Last stage of the pipeline - set stdin be the read end of the previous pipe
-     and output to the original file descriptor 1. */  
-  if (in != 0)
-    dup2 (in, 0);
+  if (fork() == 0 ){
+    close(fd[1]);
+    dup2(fd[0], 0);
 
-  /* Execute the last stage with the current process. */
+    res = main_exec(input[1]);
+    //execCmdListe(suiv(l), saved_stdout, pipefd[0]); 
+    exit(0); 
+  }
 
-  res = main_exec(input [i]);
+  close(fd[1]); 
+  close(fd[0]);
 
-  close(in);
-  close(fd[1]);
-  close(fd[2]);
-  dup2(0,0);
-  dup2(1,1);
+  wait(&status1); 
+  wait(&status2);
 
   return res;
 }
@@ -285,7 +278,10 @@ int exec_redirection(char * input_line){
       dup2(1, 1);
     } else { 
 
-      res = fork_pipes(2,res_split);
+      char * swap = res_split[0];
+      res_split[0] = res_split[1];
+      res_split[1] = swap;
+      res = fork_pipes(res_split);
 
     }
 
@@ -332,7 +328,7 @@ int exec_redirection(char * input_line){
       dup2(1, 1);
     } else {
 
-      fork_pipes(2,res_split);
+      res = fork_pipes(res_split);
     }
 
   }
@@ -356,7 +352,8 @@ int exec_piping(char * input_line){
 
   nb_split = split_by_char(input_line, '|', &result_pipe_split); // ( ps | grep sh | grep ??) => [0]["ps"] [1]["grep sh"] [2]["grep ??"]
 
-  res = fork_pipes(nb_split+1, result_pipe_split);
+  
+  res = fork_pipes(result_pipe_split);
 
   return res;
 }
@@ -540,7 +537,9 @@ int main(int argc, char** argv)
   } else {
 
     do{
-      dprintf(STDOUT,"my_sh> ");
+      char * currentDir = malloc(BUFFER_SIZE);
+      getcwd(currentDir,BUFFER_SIZE);
+      dprintf(STDOUT,"my_sh@%s> ",currentDir);
       
       input_line = read_and_histo();
 
