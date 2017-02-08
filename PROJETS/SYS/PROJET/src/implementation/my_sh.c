@@ -59,10 +59,12 @@ void print_usage(char* bin_name)
  * \brief execute the list of input sequentially and pipe each output in the next input
  * \param n number of iteration
  * \param **input_line array of string to work on
+ * \param saved_stdout output to dup
+ * \param saved_stdin input to dup
  *
  * \return execution result : 0 = OK
  */
-int fork_pipes (char ** input)
+int fork_pipes (char ** input, int saved_stdout, int saved_stdin)
 {
 
   int status1, status2, res;
@@ -74,7 +76,7 @@ int fork_pipes (char ** input)
     close(fd[0]); 
     dup2(fd[1], 1); 
 
-    main_exec(input[0]); 
+    main_exec(input[0], saved_stdout, saved_stdin); 
 
     exit(0); 
   }
@@ -83,8 +85,7 @@ int fork_pipes (char ** input)
     close(fd[1]);
     dup2(fd[0], 0);
 
-    res = main_exec(input[1]);
-    //execCmdListe(suiv(l), saved_stdout, pipefd[0]); 
+    res = main_exec(input[1], saved_stdout, fd[0]);
     exit(0); 
   }
 
@@ -121,10 +122,12 @@ int exec_if_built_in(const char* command){
  *
  * \brief split input by ";" and execute each part sequentially
  * \param input_line string to work on
+ * \param saved_stdout output to dup
+ * \param saved_stdin input to dup
  *
  * \return execution result : 0 = OK
  */
-int exec_semicolon(char * input_line){
+int exec_semicolon(char * input_line, int saved_stdout, int saved_stdin){
 
   char ** result_semicolon_split;
   int nb_split;
@@ -134,11 +137,11 @@ int exec_semicolon(char * input_line){
 
   for(i = 0; i<=nb_split; i++){
 
-    main_exec(result_semicolon_split[i]);
+    res = main_exec(result_semicolon_split[i], saved_stdout, saved_stdin);
   }
 
 
-  return EXIT_SUCCESS;
+  return res;
 }
 
 /**
@@ -146,10 +149,12 @@ int exec_semicolon(char * input_line){
  *
  * \brief execute string input in a child process and continue
  * \param input_line string to work on
+ * \param saved_stdout output to dup
+ * \param saved_stdin input to dup
  *
  * \return execution result : 0 = OK
  */
-int exec_background(char * input_line){
+int exec_background(char * input_line, int saved_stdout, int saved_stdin){
 
   remove_substring_post_char('&', &input_line);
   int res;
@@ -158,10 +163,10 @@ int exec_background(char * input_line){
 
   if(pid_fork == 0){ // Fils
 
-    res = main_exec(input_line); // ps
+    res = main_exec(input_line, saved_stdout, saved_stdin); // ps
     exit(0);
   }
-  return res;
+  return EXIT_SUCCESS;
 }
 
 /**
@@ -169,48 +174,50 @@ int exec_background(char * input_line){
  *
  * \brief split input by the chars "&&" and "||" and execute each bloc correspondingly to the logic depending of the previous bloc result
  * \param input_line string to work on
+ * \param saved_stdout output to dup
+ * \param saved_stdin input to dup
  *
  * \return execution result : 0 = OK
  */
-int exec_logical_operator(char * input_line){
+int exec_logical_operator(char * input_line, int saved_stdout, int saved_stdin){
 
   char * pointer_and, pointer_or;
   char ** res_split;
   int res;
 
-  pointer_and = get_substring_adress_in_string("&&", input_line); // Renommer en is_string_present
+  pointer_and = get_substring_adress_in_string("&&", input_line); 
   pointer_or = get_substring_adress_in_string("||", input_line);
 
   if(pointer_and == NULL && pointer_or != NULL){
 
     split_by_string_first_occurence(input_line,"||", &res_split);
 
-    if(main_exec(res_split[0]) != 0 ){
-      res = main_exec(res_split[1]);
+    if(main_exec(res_split[0], saved_stdout, saved_stdin) != 0 ){
+      res = main_exec(res_split[1], saved_stdout, saved_stdin);
     }
 
   } else if(pointer_and != NULL && pointer_or == NULL){
 
     split_by_string_first_occurence(input_line,"&&", &res_split);
 
-    if(main_exec(res_split[0]) == 0){
-      res = main_exec(res_split[1]);
+    if(main_exec(res_split[0], saved_stdout, saved_stdin) == 0){
+      res = main_exec(res_split[1], saved_stdout, saved_stdin);
     }
 
   } else if(pointer_and < pointer_or){
 
     split_by_string_first_occurence(input_line,"&&", &res_split);
 
-    if(main_exec(res_split[0]) == 0){
-      res = main_exec(res_split[1]);
+    if(main_exec(res_split[0], saved_stdout, saved_stdin) == 0){
+      res = main_exec(res_split[1], saved_stdout, saved_stdin);
     }
 
   } else if(pointer_and > pointer_or){
 
     split_by_string_first_occurence(input_line,"||", &res_split);
 
-    if(main_exec(res_split[0]) != 0){
-      res = main_exec(res_split[1]);
+    if(main_exec(res_split[0], saved_stdout, saved_stdin) != 0){
+      res = main_exec(res_split[1], saved_stdout, saved_stdin);
     }
 
   }
@@ -223,10 +230,12 @@ int exec_logical_operator(char * input_line){
  *
  * \brief split input by the chars "<", "<<", ">" or ">>" and redirect output from a bloc into another
  * \param input_line string to work on
+ * \param saved_stdout output to dup
+ * \param saved_stdin input to dup
  *
  * \return execution result : 0 = OK
  */
-int exec_redirection(char * input_line){
+int exec_redirection(char * input_line, int saved_stdout, int saved_stdin){
 
   char * pointer_left_can, pointer_right_can, pointer_double_left_can, pointer_double_right_can;
   char ** res_split;
@@ -261,7 +270,7 @@ int exec_redirection(char * input_line){
 
       if (-1 == dup2(out, fileno(stdout))) { perror("Impossible de rediriger stdout"); return 255; }
 
-      res = main_exec(res_split[1]);
+      res = main_exec(res_split[1], saved_stdout, saved_stdin); 
 
       fflush(stdout); close(out);
       dup2(save_out, fileno(stdout));
@@ -273,7 +282,7 @@ int exec_redirection(char * input_line){
 
       dup2(2, 1);
 
-      res = main_exec(res_split[1]);
+      res = main_exec(res_split[1], saved_stdout, saved_stdin);
 
       dup2(1, 1);
     } else { 
@@ -281,7 +290,7 @@ int exec_redirection(char * input_line){
       char * swap = res_split[0];
       res_split[0] = res_split[1];
       res_split[1] = swap;
-      res = fork_pipes(res_split);
+      res = fork_pipes(res_split, saved_stdout, saved_stdin);
 
     }
 
@@ -312,7 +321,7 @@ int exec_redirection(char * input_line){
       if (-1 == dup2(out, fileno(stdout))) { perror("cannot redirect stdout"); return 255; }
 
 
-      res = main_exec(res_split[0]);
+      res = main_exec(res_split[0], saved_stdout, saved_stdin);
 
       fflush(stdout); close(out);
       dup2(save_out, fileno(stdout));
@@ -321,14 +330,14 @@ int exec_redirection(char * input_line){
 
         // file exists
     } else if (res_split[1][0] == '2') {
-      dup2(2, 1);
+      //dup2(2, 1);
 
-      res = main_exec(res_split[0]);
+      res = main_exec(res_split[0], 2, saved_stdin);
 
       dup2(1, 1);
     } else {
 
-      res = fork_pipes(res_split);
+      res = fork_pipes(res_split, saved_stdout, saved_stdin);
     }
 
   }
@@ -341,10 +350,12 @@ int exec_redirection(char * input_line){
  *
  * \brief split input by the char "|", execute each bloc sequentially redirecting output in the next iteration input
  * \param input_line string to work on
+ * \param saved_stdout output to dup
+ * \param saved_stdin input to dup
  *
  * \return execution result : 0 = OK
  */
-int exec_piping(char * input_line){
+int exec_piping(char * input_line, int saved_stdout, int saved_stdin){
 
 
   char ** result_pipe_split;
@@ -352,8 +363,7 @@ int exec_piping(char * input_line){
 
   nb_split = split_by_char(input_line, '|', &result_pipe_split); // ( ps | grep sh | grep ??) => [0]["ps"] [1]["grep sh"] [2]["grep ??"]
 
-  
-  res = fork_pipes(result_pipe_split);
+  res = fork_pipes(result_pipe_split, saved_stdout, saved_stdin);
 
   return res;
 }
@@ -431,32 +441,37 @@ int exec_command(const char* parameters){
  *
  * \brief main execution logic, implements the character hierarchy on how to interpret the input
  * \param input_line string to work on
+ * \param saved_stdout output to dup
+ * \param saved_stdin input to dup
  *
  * \return execution result : 0 = OK
  */
-int main_exec(char * input_line)
+int main_exec(char * input_line, int saved_stdout, int saved_stdin)
 {
+
+  dup2(saved_stdout, 1);
+  dup2(saved_stdin, 0);
 
   int res;
 
   if( strstr(input_line,";")){
-    res = exec_semicolon(input_line); // Lance autant d'exec de que bloc
+    res = exec_semicolon(input_line, saved_stdout, saved_stdin); // Lance autant d'exec de que bloc
   } 
 
-  else if( input_line[strlen(input_line)-2] == '&'){ //Débugguer
-    res = exec_background(input_line);// Lance l'exec dans un processus fils sans attente
+  else if( input_line[strlen(input_line)-2] == '&'){
+    res = exec_background(input_line, saved_stdout, saved_stdin);// Lance l'exec dans un processus fils sans attente
   }
   
-  else if( strstr(input_line, "&&") || strstr(input_line, "||")){ //Debugguer || commande non trouvée
-    res = exec_logical_operator(input_line); // Lance des exec pour chaque bloc logique et test leurs validités
+  else if( strstr(input_line, "&&") || strstr(input_line, "||")){ 
+    res = exec_logical_operator(input_line, saved_stdout, saved_stdin); // Lance des exec pour chaque bloc logique et test leurs validités
   }
   
   else if( strstr(input_line," >") || strstr(input_line," >>") || strstr(input_line, "< ") || strstr(input_line, "<< ")){
-    res = exec_redirection(input_line); // Lance une chaine d'exec avec des redirections d'output/input
+    res = exec_redirection(input_line, saved_stdout, saved_stdin); // Lance une chaine d'exec avec des redirections d'output/input
   }
   
   else if( strstr(input_line, " | ")){
-    res = exec_piping(input_line);  // Lance des execs chainés dans des pipes
+    res = exec_piping(input_line, saved_stdout, saved_stdin);  // Lance des execs chainés dans des pipes
   }
   
   else{
@@ -528,10 +543,13 @@ int main(int argc, char** argv)
       while(i<argc){
 
         input_line = concat(res,argv[i]);
+        res = input_line;
+        input_line = concat(res, " ");
+        res = input_line;
         i++;
       }
 
-      main_exec(input_line);
+      main_exec(input_line, 1, 0);
     }
 
   } else {
@@ -543,7 +561,7 @@ int main(int argc, char** argv)
       
       input_line = read_and_histo();
 
-      main_exec(input_line);
+      main_exec(input_line, 1, 0);
 
     } while(1); 
   }
